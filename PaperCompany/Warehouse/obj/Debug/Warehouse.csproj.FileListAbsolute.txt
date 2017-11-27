@@ -1,0 +1,6 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\bin\Debug\Warehouse.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\bin\Debug\Warehouse.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\Warehouse.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\Warehouse.pdb

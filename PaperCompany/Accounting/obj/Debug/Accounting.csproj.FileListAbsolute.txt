@@ -1,0 +1,6 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\Accounting\bin\Debug\Accounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Accounting\bin\Debug\Accounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Accounting\obj\Debug\Accounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Accounting\obj\Debug\Accounting.pdb
