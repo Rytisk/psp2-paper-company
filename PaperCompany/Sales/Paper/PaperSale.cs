@@ -8,13 +8,25 @@ namespace Sales.Paper
 {
     class PaperSale : ISale
     {
+        private Paper _paper;
+
         public int Quantity { get; set; }
-        public IProduct Product { get; set; }
         public string CustomerName { get; set; }
+        public int SaleId { get; set; }
+
+        public PaperSale(Paper paper)
+        {
+            _paper = paper;
+        }
 
         public decimal GetTotal()
         {
-            return Quantity * Product.Price;
+            return Quantity * _paper.Price;
+        }
+
+        public IProduct GetProduct()
+        {
+            return _paper;
         }
     }
 }

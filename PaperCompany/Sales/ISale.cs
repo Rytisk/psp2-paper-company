@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Sales
 {
-    interface ISale
+    public interface ISale
     {
+        int SaleId { get; set; }
         int Quantity { get; set; }
-        IProduct Product { get; set; }
-
         string CustomerName { get; set; }
 
         decimal GetTotal();
+        IProduct GetProduct();
     }
 }

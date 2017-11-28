@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Sales
 {
-    interface ISalesFactory
+    public interface ISalesFactory
     {
         IProduct CreateProduct();
-        ISalesman CreateSalesman();
         ISale CreateSale();
     }
 }

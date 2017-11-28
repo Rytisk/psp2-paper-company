@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Warehouse
 {
-    interface IWarehouseFactory
+    public interface IWarehouseFactory
     {
         IDelivery CreateDelivery();
-        IWarehouseWorker CreateWarehouseWorker();
         IStock CreateStock();
     }
 }

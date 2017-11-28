@@ -43,15 +43,12 @@
     <Compile Include="IProduct.cs" />
     <Compile Include="ISale.cs" />
     <Compile Include="ISalesFactory.cs" />
-    <Compile Include="ISalesman.cs" />
     <Compile Include="Paper\Paper.cs" />
     <Compile Include="Paper\PaperSale.cs" />
     <Compile Include="Paper\PaperSalesFactory.cs" />
-    <Compile Include="Paper\PaperSalesman.cs" />
     <Compile Include="Printer\Printer.cs" />
     <Compile Include="Printer\PrinterSale.cs" />
     <Compile Include="Printer\PrinterSalesFactory.cs" />
-    <Compile Include="Printer\PrinterSalesman.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

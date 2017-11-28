@@ -8,7 +8,7 @@ namespace Accounting.Management
 {
     class ManagementAccountingFactory : IAccountingFactory
     {
-        public IAccountant CreateAccountant()
+        public IPayment CreatePayment()
         {
             throw new NotImplementedException();
         }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Accounting
 {
-    interface IAccountingFactory
+    public interface IAccountingFactory
     {
         IReport CreateReport();
-        IAccountant CreateAccountant();
+        IPayment CreatePayment();
     }
 }

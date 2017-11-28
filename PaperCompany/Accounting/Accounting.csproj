@@ -40,14 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Finance\FinanceAccountant.cs" />
     <Compile Include="Finance\FinanceAccountingFactory.cs" />
+    <Compile Include="Finance\FinancialActivityPayment.cs" />
     <Compile Include="Finance\FinancialStatement.cs" />
-    <Compile Include="IAccountant.cs" />
     <Compile Include="IAccountingFactory.cs" />
     <Compile Include="IReport.cs" />
     <Compile Include="Management\CostsReport.cs" />
-    <Compile Include="Management\ManagementAccountant.cs" />
+    <Compile Include="IPayment.cs" />
+    <Compile Include="Management\InterOperationsPayment.cs" />
     <Compile Include="Management\ManagementAccountingFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

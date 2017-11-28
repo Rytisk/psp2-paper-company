@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Warehouse
 {
-    interface IDelivery
+    public interface IDelivery
     {
-        DeliveryType Type { get; set; }
+        int DeliveryId { get; set; }
         DateTime DeliveryDate { get; set; }
         string Source { get; set; }
         string Destination { get; set; }

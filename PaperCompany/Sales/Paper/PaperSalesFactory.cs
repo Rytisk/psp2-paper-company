@@ -17,10 +17,5 @@ namespace Sales.Paper
         {
             throw new NotImplementedException();
         }
-
-        public ISalesman CreateSalesman()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

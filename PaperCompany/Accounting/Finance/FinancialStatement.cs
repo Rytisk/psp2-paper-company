@@ -9,5 +9,11 @@ namespace Accounting.Finance
     class FinancialStatement : IReport
     {
         public string ShortDescription { get; set; }
+        public int ReportId { get; set; }
+
+        public decimal GetTotal()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
