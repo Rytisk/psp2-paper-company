@@ -9,9 +9,7 @@ namespace Warehouse
     interface IStock
     {
         DateTime ManufactureDate { get; set; }
-
         int QuantityInStock { get; set; }
-
-        int ID { get; set; }
+        int ProductID { get; set; }
     }
 }

@@ -40,11 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DayShift\DayShiftWarehouseFactory.cs" />
+    <Compile Include="DayShift\DayStock.cs" />
+    <Compile Include="DayShift\DayDelivery.cs" />
+    <Compile Include="DayShift\DayShiftWorker.cs" />
     <Compile Include="DeliveryType.cs" />
     <Compile Include="IDelivery.cs" />
     <Compile Include="IStock.cs" />
     <Compile Include="IWarehouseFactory.cs" />
     <Compile Include="IWarehouseWorker.cs" />
+    <Compile Include="NightShift\NightDelivery.cs" />
+    <Compile Include="NightShift\NightShiftWarehouseFactory.cs" />
+    <Compile Include="NightShift\NightShiftWorker.cs" />
+    <Compile Include="NightShift\NightStock.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

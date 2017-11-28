@@ -9,9 +9,8 @@ namespace Warehouse
     interface IDelivery
     {
         DeliveryType Type { get; set; }
-
         DateTime DeliveryDate { get; set; }
-
-
+        string Source { get; set; }
+        string Destination { get; set; }
     }
 }

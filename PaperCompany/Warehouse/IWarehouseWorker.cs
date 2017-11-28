@@ -10,9 +10,10 @@ namespace Warehouse
     {
         string FirstName { get; set; }
         string LastName { get; set; }
-
         string GetDuties();
 
         IDelivery MakeDelivery(IStock stock);
+
+        void LoadStock();
     }
 }
