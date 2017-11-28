@@ -1,0 +1,7 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\bin\Debug\FinanceAccounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\bin\Debug\FinanceAccounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.pdb

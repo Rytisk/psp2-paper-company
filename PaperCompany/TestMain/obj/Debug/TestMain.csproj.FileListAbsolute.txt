@@ -1,7 +1,6 @@
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\TestMain.exe.config
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\TestMain.exe
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\TestMain.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.csprojResolveAssemblyReference.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.exe
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.pdb

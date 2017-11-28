@@ -1,0 +1,7 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\PaperSales.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\PaperSales.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\PaperSales.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\PaperSales.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\PaperSales.pdb

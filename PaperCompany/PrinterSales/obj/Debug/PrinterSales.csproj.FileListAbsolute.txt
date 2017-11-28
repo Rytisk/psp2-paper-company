@@ -1,0 +1,7 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\PrinterSales.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\PrinterSales.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\PrinterSales.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\PrinterSales.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\PrinterSales.pdb

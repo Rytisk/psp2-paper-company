@@ -1,0 +1,7 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\bin\Debug\RepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\bin\Debug\RepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.pdb

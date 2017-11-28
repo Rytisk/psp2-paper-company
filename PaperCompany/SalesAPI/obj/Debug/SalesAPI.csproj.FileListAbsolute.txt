@@ -1,0 +1,6 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\Sales\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Sales\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.pdb

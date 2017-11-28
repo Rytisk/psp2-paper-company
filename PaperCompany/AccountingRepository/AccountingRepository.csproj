@@ -40,16 +40,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IPaymentRepository.cs" />
-    <Compile Include="IReportRepository.cs" />
-    <Compile Include="Payment\InMemoryPaymentRepository.cs" />
+    <Compile Include="InMemoryAccountantRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Report\InMemoryReportRepository.cs" />
+    <Compile Include="InMemoryReportRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Accounting\Accounting.csproj">
+    <ProjectReference Include="..\AccountingAPI\AccountingAPI.csproj">
       <Project>{d2fa3592-3e4e-4a40-b916-983d05192264}</Project>
-      <Name>Accounting</Name>
+      <Name>AccountingAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingRepositoryAPI\AccountingRepositoryAPI.csproj">
+      <Project>{4143f492-f8bb-4068-92af-d880aaface82}</Project>
+      <Name>AccountingRepositoryAPI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

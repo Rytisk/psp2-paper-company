@@ -1,0 +1,7 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.pdb
