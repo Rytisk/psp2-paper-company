@@ -21,7 +21,7 @@ namespace Company.Services.Sales
             _orderRepository = orderRepository;
         }
 
-        public void CreateOrder(List<string> productsIds, decimal unitPrice, string salesmanId)
+        public IOrder CreateOrder(List<string> productsIds, decimal unitPrice, string salesmanId)
         {
             IOrder order = _salesFactory.CreateOrder(unitPrice);
             foreach (var id in productsIds)
@@ -31,6 +31,7 @@ namespace Company.Services.Sales
             salesman.AddToYearQuota(order.GetTotalPrice());
 
             _orderRepository.Add(order);
+            return order;
         }
     }
 }

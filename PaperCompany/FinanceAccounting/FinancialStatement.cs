@@ -9,17 +9,21 @@ namespace Company.Entities.Accounting.Finance
 {
     class FinancialStatement : IReport
     {
+        private string _reportData;
+
         public string ShortDescription { get; set; }
         public string ReportId { get; private set; }
 
         public FinancialStatement(string shortDescription, string reportData)
         {
-            ReportId = new Guid().ToString();
+            ShortDescription = shortDescription;
+            _reportData = reportData;
+            ReportId = Guid.NewGuid().ToString();
         }
 
         public string GetReportInfo()
         {
-            throw new NotImplementedException();
+            return "Financial statement: " + _reportData;
         }
     }
 }

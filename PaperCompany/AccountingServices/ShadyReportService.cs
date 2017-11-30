@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Company.Services.Accounting
 {
-    class ShadyReportService
+    public class ShadyReportService
     {
         private IAccountingFactory _accountingFactory;
         private IAccountantRepository _accountantRepository;

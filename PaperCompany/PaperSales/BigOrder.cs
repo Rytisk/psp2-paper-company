@@ -15,7 +15,7 @@ namespace Company.Entities.Sales.Senior
 
         public BigOrder(decimal unitPrice)
         {
-            OrderId = new Guid().ToString();
+            OrderId = Guid.NewGuid().ToString();
             _unitPrice = unitPrice;
         }
 

@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\ManagementAccounting
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingAPI.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\FinanceAccounting.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\ManagementAccounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingRepository.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingServices.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingRepository.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingServices.pdb

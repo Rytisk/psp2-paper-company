@@ -17,12 +17,12 @@ namespace Company.Entities.Accounting.Finance
 
         public FinanceAccountant()
         {
-            AccountantId = new Guid().ToString();
+            AccountantId = Guid.NewGuid().ToString();
         }
 
         public IReport WriteReport(string description)
         {
-            return new FinancialStatement(description, _reportData);
+           return new FinancialStatement(description, _reportData);
         }
 
         public void LogAnOrder(List<string> productsIds, decimal unitPrice, string orderId)

@@ -9,7 +9,7 @@ using Company.Repository.Api;
 
 namespace Company.Services.Accounting
 {
-    class NormalReportService : IReportService
+    public class NormalReportService : IReportService
     {
         private IAccountingFactory _accountingFactory;
         private IAccountantRepository _accountantRepository;

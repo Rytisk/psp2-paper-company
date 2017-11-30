@@ -16,7 +16,7 @@ namespace Company.Entities.Accounting.Management
 
         public CostsReport(string shortDescription, string reportData)
         {
-            ReportId = new Guid().ToString();
+            ReportId = Guid.NewGuid().ToString();
             ShortDescription = shortDescription;
             _reportData = reportData;
 

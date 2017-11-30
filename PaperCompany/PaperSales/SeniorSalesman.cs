@@ -16,7 +16,7 @@ namespace Company.Entities.Sales.Senior
 
         public SeniorSalesman()
         {
-            SalesmanId = new Guid().ToString();
+            SalesmanId = Guid.NewGuid().ToString();
         }
 
         public decimal GetYearQuota()

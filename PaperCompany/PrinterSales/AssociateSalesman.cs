@@ -16,7 +16,7 @@ namespace Company.Entities.Sales.Associate
 
         public AssociateSalesman()
         {
-            SalesmanId = new Guid().ToString();
+            SalesmanId = Guid.NewGuid().ToString();
         }
 
         public decimal GetYearQuota()

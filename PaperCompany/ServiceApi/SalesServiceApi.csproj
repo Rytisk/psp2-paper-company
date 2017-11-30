@@ -43,5 +43,11 @@
     <Compile Include="IOrderService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SalesAPI\SalesAPI.csproj">
+      <Project>{df2fd2a0-ab82-4960-b97a-d9b6891ac989}</Project>
+      <Name>SalesAPI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

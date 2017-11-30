@@ -61,6 +61,22 @@
       <Project>{d2fa3592-3e4e-4a40-b916-983d05192264}</Project>
       <Name>AccountingAPI</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AccountingRepositoryAPI\AccountingRepositoryAPI.csproj">
+      <Project>{4143f492-f8bb-4068-92af-d880aaface82}</Project>
+      <Name>AccountingRepositoryAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingRepository\AccountingRepository.csproj">
+      <Project>{0e81924f-a21b-47b9-bd50-49e8006c813e}</Project>
+      <Name>AccountingRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingServiceApi\AccountingServiceApi.csproj">
+      <Project>{940dda39-0e26-44f9-8aa1-d454362abafc}</Project>
+      <Name>AccountingServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingServices\AccountingServices.csproj">
+      <Project>{72c00158-ea0d-4cd7-b7b2-9f09c411985a}</Project>
+      <Name>AccountingServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FinanceAccounting\FinanceAccounting.csproj">
       <Project>{a78b60be-d9aa-449a-95f6-81607ddde197}</Project>
       <Name>FinanceAccounting</Name>

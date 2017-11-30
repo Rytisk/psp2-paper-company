@@ -14,7 +14,7 @@ namespace Company.Entities.Warehouse.PrinterDivision
 
         public Printer()
         {
-            ProductId = new Guid().ToString();
+            ProductId = Guid.NewGuid().ToString();
         }
 
         public decimal GetUnitPrice()

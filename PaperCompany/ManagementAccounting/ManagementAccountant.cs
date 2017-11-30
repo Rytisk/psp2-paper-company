@@ -17,7 +17,7 @@ namespace Company.Entities.Accounting.Management
 
         public ManagementAccountant()
         {
-            AccountantId = new Guid().ToString();
+            AccountantId = Guid.NewGuid().ToString();
         }
 
         public IReport WriteReport(string description)

@@ -8,15 +8,15 @@ using Company.Repository.Api;
 
 namespace Company.Repository.Accounting
 {
-    class InMemoryAccountantRepository : IAccountantRepository
+    public class InMemoryAccountantRepository : IAccountantRepository
     {
         private List<IAccountant> _accountants = new List<IAccountant>();
 
-        public void Add(IAccountant payment)
+        public void Add(IAccountant accountant)
         {
-            if (!_accountants.Any(x => x.AccountantId == payment.AccountantId))
+            if (!_accountants.Any(x => x.AccountantId == accountant.AccountantId))
             {
-                _accountants.Add(payment);
+                _accountants.Add(accountant);
             }
             else
             {

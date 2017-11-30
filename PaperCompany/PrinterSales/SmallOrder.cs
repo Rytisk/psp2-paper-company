@@ -15,7 +15,7 @@ namespace Company.Entities.Sales.Associate
 
         public SmallOrder(decimal unitPrice)
         {
-            OrderId = new Guid().ToString();
+            OrderId = Guid.NewGuid().ToString();
             _unitPrice = unitPrice;
         }
 

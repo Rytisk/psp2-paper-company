@@ -8,7 +8,7 @@ using Company.Repository.Api;
 
 namespace Company.Repository.Accounting
 {
-    class InMemoryReportRepository : IReportRepository
+    public class InMemoryReportRepository : IReportRepository
     {
         private List<IReport> _reports = new List<IReport>();
 

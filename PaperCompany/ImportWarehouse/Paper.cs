@@ -15,7 +15,7 @@ namespace Company.Entities.Warehouse.PaperDivision
 
         public Paper()
         {
-            ProductId = new Guid().ToString();
+            ProductId = Guid.NewGuid().ToString();
         }
 
         public decimal GetUnitPrice()

@@ -13,7 +13,7 @@ namespace Company.Entities.Warehouse.PrinterDivision
 
         public PrinterDelivery()
         {
-            DeliveryId = new Guid().ToString();
+            DeliveryId = Guid.NewGuid().ToString();
         }
 
         public string GetDestination()
