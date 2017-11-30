@@ -1,0 +1,8 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\bin\Debug\PrinterDivision.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\bin\Debug\PrinterDivision.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.pdb

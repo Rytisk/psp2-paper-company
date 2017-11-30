@@ -4,14 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entity.AccountingAPI
+namespace Company.Entities.Accounting.Api
 {
     public interface IAccountant
     {
-        int AccountantId { get; set; }
+        string AccountantId { get; }
         string FirstName { get; set; }
         string LastName { get; set; }
 
         IReport WriteReport();
+
+        void LogASale(string productId, int quantity, decimal unitPrice);
     }
 }

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entity.WarehouseAPI
+namespace Company.Entities.Warehouse.Api
 {
     public interface IWarehouseFactory
     {
         IDelivery CreateDelivery();
-        IStock CreateStock();
+        IProduct CreateProduct();
     }
 }

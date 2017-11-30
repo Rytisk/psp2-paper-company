@@ -4,3 +4,9 @@ D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.csprojResolveA
 D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Sales\obj\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesAPI\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesAPI\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesAPI\obj\Debug\SalesAPI.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesAPI\obj\Debug\SalesAPI.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesAPI\obj\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesAPI\obj\Debug\SalesAPI.pdb

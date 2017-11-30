@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.AccountingAPI;
-using Company.Facade.AccountingRepositoryAPI;
+using Company.Entities.Accounting.Api;
+using Company.Repository.Api;
 
-namespace Company.Repository.AccountingRepository
+namespace Company.Repository.Accounting
 {
     class InMemoryReportRepository : IReportRepository
     {
@@ -24,7 +24,7 @@ namespace Company.Repository.AccountingRepository
             }
         }
 
-        public void Delete(int reportId)
+        public void Delete(string reportId)
         {
             _reports.RemoveAll(x => x.ReportId == reportId);
         }
@@ -34,7 +34,7 @@ namespace Company.Repository.AccountingRepository
             return _reports;
         }
 
-        public IReport GetById(int reportId)
+        public IReport GetById(string reportId)
         {
             return _reports.FirstOrDefault(x => x.ReportId == reportId);
         }

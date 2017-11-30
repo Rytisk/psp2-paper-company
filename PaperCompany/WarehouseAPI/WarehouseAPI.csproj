@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IDelivery.cs" />
-    <Compile Include="IStock.cs" />
+    <Compile Include="IProduct.cs" />
     <Compile Include="IWarehouseFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

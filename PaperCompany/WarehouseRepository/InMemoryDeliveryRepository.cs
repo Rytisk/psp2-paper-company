@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.WarehouseAPI;
-using Company.Facade.WarehouseRepositoryAPI;
-
-namespace WarehouseRepository.Delivery
+using Company.Entities.Warehouse.Api;
+using Company.Repository.Api;
+namespace Company.Repository.Warehouse
 {
-    class InMemoryDeliveryRepository
+    class InMemoryDeliveryRepository : IDeliveryRepository
     {
         private List<IDelivery> _deliveries = new List<IDelivery>();
 
@@ -24,7 +23,7 @@ namespace WarehouseRepository.Delivery
             }
         }
 
-        public void Delete(int deliveryId)
+        public void Delete(string deliveryId)
         {
             _deliveries.RemoveAll(x => x.DeliveryId == deliveryId);
         }
@@ -34,7 +33,7 @@ namespace WarehouseRepository.Delivery
             return _deliveries;
         }
 
-        public IDelivery GetById(int deliveryId)
+        public IDelivery GetById(string deliveryId)
         {
             return _deliveries.FirstOrDefault(x => x.DeliveryId == deliveryId);
         }

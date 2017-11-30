@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.AccountingAPI;
+using Company.Entities.Accounting.Api;
 
-namespace Company.Facade.AccountingRepositoryAPI
+namespace Company.Repository.Api
 {
     public interface IReportRepository
     {
         void Add(IReport report);
-        void Delete(int reportId);
-        IReport GetById(int reportId);
+        void Delete(string reportId);
+        IReport GetById(string reportId);
         List<IReport> GetAll();
     }
 }

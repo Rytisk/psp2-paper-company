@@ -1,0 +1,8 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\Mail.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\Mail.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\MailAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\MailAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Gmail.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Gmail.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Mail.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Mail.pdb

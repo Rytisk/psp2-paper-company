@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.AccountingAPI;
-using Company.Facade.AccountingRepositoryAPI;
+using Company.Entities.Accounting.Api;
+using Company.Repository.Api;
 
-namespace Company.Repository.AccountingRepository
+namespace Company.Repository.Accounting
 {
-    class InMemoryAccountantRepository
+    class InMemoryAccountantRepository : IAccountantRepository
     {
         private List<IAccountant> _accountants = new List<IAccountant>();
 
@@ -20,11 +20,11 @@ namespace Company.Repository.AccountingRepository
             }
             else
             {
-                throw new Exception("This payment record already exists.");
+                throw new Exception("This accountant record already exists.");
             }
         }
 
-        public void Delete(int accountantId)
+        public void Delete(string accountantId)
         {
             _accountants.RemoveAll(x => x.AccountantId == accountantId);
         }
@@ -34,7 +34,7 @@ namespace Company.Repository.AccountingRepository
             return _accountants;
         }
 
-        public IAccountant GetById(int accountantId)
+        public IAccountant GetById(string accountantId)
         {
             return _accountants.FirstOrDefault(x => x.AccountantId == accountantId);
         }

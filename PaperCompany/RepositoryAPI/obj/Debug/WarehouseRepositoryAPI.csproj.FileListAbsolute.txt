@@ -5,3 +5,4 @@ D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.pd
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csprojResolveAssemblyReference.cache

@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entity.AccountingAPI
+namespace Company.Entities.Accounting.Api
 {
     public interface IAccountingFactory
     {
-        IReport CreateReport();
         IAccountant CreateAccountant();
     }
 }

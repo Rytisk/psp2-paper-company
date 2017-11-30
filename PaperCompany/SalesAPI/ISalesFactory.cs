@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entity.SalesAPI
+namespace Company.Entities.Sales.Api
 {
     public interface ISalesFactory
     {
-        IProduct CreateProduct();
-        ISale CreateSale();
+        IOrder CreateOrder(decimal unitPrice);
+        ISalesman CreateSalesman();
     }
 }

@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.AccountingAPI;
+using Company.Entities.Accounting.Api;
 
-namespace Company.Facade.AccountingRepositoryAPI
+namespace Company.Repository.Api
 {
     public interface IAccountantRepository
     {
         void Add(IAccountant payment);
-        void Delete(int accountantId);
-        IAccountant GetById(int accountantId);
+        void Delete(string accountantId);
+        IAccountant GetById(string accountantId);
         List<IAccountant> GetAll();
     }
 }

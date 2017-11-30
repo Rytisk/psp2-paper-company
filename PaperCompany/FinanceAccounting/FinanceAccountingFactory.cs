@@ -3,18 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.AccountingAPI;
+using Company.Entities.Accounting.Api;
 
-namespace Company.Entity.FinanceAccounting
+namespace Company.Entities.Accounting.Finance
 {
-    class FinanceAccountingFactory : IAccountingFactory
+    public class FinanceAccountingFactory : IAccountingFactory
     {
         public IAccountant CreateAccountant()
-        {
-            throw new NotImplementedException();
-        }
-
-        public IReport CreateReport()
         {
             throw new NotImplementedException();
         }

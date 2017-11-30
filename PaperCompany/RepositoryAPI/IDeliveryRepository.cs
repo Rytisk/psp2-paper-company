@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.WarehouseAPI;
+using Company.Entities.Warehouse.Api;
 
-namespace Company.Facade.WarehouseRepositoryAPI
+namespace Company.Repository.Api
 {
     public interface IDeliveryRepository
     {
         void Add(IDelivery delivery);
-        void Delete(int deliveryId);
-        IDelivery GetById(int deliveryId);
+        void Delete(string deliveryId);
+        IDelivery GetById(string deliveryId);
         List<IDelivery> GetAll();
     }
 }

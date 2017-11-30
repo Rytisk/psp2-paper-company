@@ -1,0 +1,10 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\bin\Debug\OrderFacade.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\bin\Debug\OrderFacade.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\bin\Debug\RepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\bin\Debug\RepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\obj\Debug\DeliveryServiceFacade.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\obj\Debug\DeliveryServiceFacade.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\obj\Debug\OrderFacade.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderFacade\obj\Debug\OrderFacade.pdb

@@ -1,0 +1,8 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\AssociateSales.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\AssociateSales.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.csprojResolveAssemblyReference.cache

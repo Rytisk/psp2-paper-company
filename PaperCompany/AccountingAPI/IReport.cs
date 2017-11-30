@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entity.AccountingAPI
+namespace Company.Entities.Accounting.Api
 {
     public interface IReport
     {
-        int ReportId { get; set; }
+        string ReportId { get; }
         string ShortDescription { get; set; }
 
         decimal GetTotal();

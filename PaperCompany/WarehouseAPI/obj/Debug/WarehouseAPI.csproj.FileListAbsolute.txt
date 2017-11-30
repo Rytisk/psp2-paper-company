@@ -4,3 +4,9 @@ D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\WarehouseAPI.csproj
 D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\WarehouseAPI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\WarehouseAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Warehouse\obj\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseAPI\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseAPI\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseAPI\obj\Debug\WarehouseAPI.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseAPI\obj\Debug\WarehouseAPI.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseAPI\obj\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseAPI\obj\Debug\WarehouseAPI.pdb

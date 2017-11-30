@@ -4,3 +4,12 @@ D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\TestMain.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.exe
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\Autofac.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\Autofac.xml
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\obj\Debug\TestMain.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\FinanceAccounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\ManagementAccounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\FinanceAccounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\ManagementAccounting.pdb

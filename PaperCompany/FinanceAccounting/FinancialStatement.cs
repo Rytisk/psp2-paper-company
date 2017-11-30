@@ -3,16 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entity.AccountingAPI;
+using Company.Entities.Accounting.Api;
 
-namespace Company.Entity.FinanceAccounting
+namespace Company.Entities.Accounting.Finance
 {
     class FinancialStatement : IReport
     {
         public string ShortDescription { get; set; }
-        public int ReportId { get; set; }
+        public string ReportId { get; private set; }
 
-        public decimal GetTotal()
+    public FinancialStatement()
+    {
+            ReportId = new Guid().ToString();
+    }
+
+    public decimal GetTotal()
         {
             throw new NotImplementedException();
         }

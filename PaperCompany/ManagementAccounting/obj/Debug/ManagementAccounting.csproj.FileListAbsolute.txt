@@ -13,3 +13,4 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\Accounti
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
