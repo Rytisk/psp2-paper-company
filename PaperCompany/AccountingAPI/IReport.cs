@@ -11,6 +11,6 @@ namespace Company.Entities.Accounting.Api
         string ReportId { get; }
         string ShortDescription { get; set; }
 
-        decimal GetTotal();
+        string GetReportInfo();
     }
 }

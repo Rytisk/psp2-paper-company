@@ -12,12 +12,12 @@ namespace Company.Entities.Accounting.Finance
         public string ShortDescription { get; set; }
         public string ReportId { get; private set; }
 
-    public FinancialStatement()
-    {
+        public FinancialStatement(string shortDescription, string reportData)
+        {
             ReportId = new Guid().ToString();
-    }
+        }
 
-    public decimal GetTotal()
+        public string GetReportInfo()
         {
             throw new NotImplementedException();
         }

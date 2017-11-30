@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\WarehouseServices.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\WarehouseServices.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\RepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\WarehouseServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\RepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\bin\Debug\WarehouseServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.pdb

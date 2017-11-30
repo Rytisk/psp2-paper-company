@@ -3,3 +3,4 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\bin\Debug\SalesServiceApi.pd
 D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesServices.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesServices.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\bin\Debug\SalesServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.pdb

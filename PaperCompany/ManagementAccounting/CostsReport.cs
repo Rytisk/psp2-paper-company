@@ -9,17 +9,22 @@ namespace Company.Entities.Accounting.Management
 {
     class CostsReport : IReport
     {
+        private string _reportData;
+
         public string ShortDescription { get; set; }
         public string ReportId { get; private set; }
 
-        public CostsReport()
+        public CostsReport(string shortDescription, string reportData)
         {
             ReportId = new Guid().ToString();
+            ShortDescription = shortDescription;
+            _reportData = reportData;
+
         }
 
-        public decimal GetTotal()
+        public string GetReportInfo()
         {
-            throw new NotImplementedException();
+            return "Costs report: " + _reportData;
         }
     }
 }

@@ -31,7 +31,7 @@ namespace Company.Entities.Sales.Senior
 
         public void TakeCommisions(IOrder order)
         {
-            throw new NotImplementedException();
+            _commisions = order.GetTotalPrice() * 0.05m;
         }
 
         public void AddToYearQuota(decimal moneyEarned)

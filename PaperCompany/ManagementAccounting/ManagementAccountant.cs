@@ -9,6 +9,8 @@ namespace Company.Entities.Accounting.Management
 {
     class ManagementAccountant : IAccountant
     {
+        private string _reportData;
+
         public string AccountantId { get; private set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -18,14 +20,14 @@ namespace Company.Entities.Accounting.Management
             AccountantId = new Guid().ToString();
         }
 
-        public void LogASale(string productId, int quantity, decimal unitPrice)
+        public IReport WriteReport(string description)
         {
-            throw new NotImplementedException();
+            return new CostsReport(description, _reportData);
         }
 
-        public IReport WriteReport()
+        public void LogAnOrder(List<string> productsIds, decimal unitPrice, string orderId)
         {
-            return new CostsReport();
+            _reportData += string.Format("OrderId: {0}, products quantity: {1}, unitPrice: {2}, totalPrice: {3}.\n", orderId, productsIds.Count, unitPrice, unitPrice * productsIds.Count);
         }
     }
 }

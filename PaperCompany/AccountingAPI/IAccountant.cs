@@ -12,8 +12,8 @@ namespace Company.Entities.Accounting.Api
         string FirstName { get; set; }
         string LastName { get; set; }
 
-        IReport WriteReport();
+        IReport WriteReport(string description);
 
-        void LogASale(string productId, int quantity, decimal unitPrice);
+        void LogAnOrder(List<string> productsIds, decimal unitPrice, string orderId);
     }
 }

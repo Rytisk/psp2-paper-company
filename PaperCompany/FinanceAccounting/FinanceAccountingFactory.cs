@@ -11,7 +11,7 @@ namespace Company.Entities.Accounting.Finance
     {
         public IAccountant CreateAccountant()
         {
-            throw new NotImplementedException();
+            return new FinanceAccountant();
         }
     }
 }

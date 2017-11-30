@@ -11,7 +11,7 @@ namespace Company.Entities.Accounting.Management
     {
         public IAccountant CreateAccountant()
         {
-            throw new NotImplementedException();
+            return new ManagementAccountant();
         }
     }
 }
