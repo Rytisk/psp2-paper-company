@@ -9,6 +9,10 @@ namespace Company.Entities.Warehouse.PrinterDivision
 {
     class PrinterDelivery : IDelivery
     {
+        private string _destination;
+        private string _source;
+        private List<IProduct> _products;
+
         public string DeliveryId { get; private set; }
 
         public PrinterDelivery()
@@ -18,27 +22,29 @@ namespace Company.Entities.Warehouse.PrinterDivision
 
         public string GetDestination()
         {
-            throw new NotImplementedException();
+            return _destination;
         }
 
         public List<IProduct> GetProducts()
         {
-            throw new NotImplementedException();
+            return _products;
         }
 
         public int GetQuantity()
         {
-            throw new NotImplementedException();
+            return _products.Count;
         }
 
         public string GetSource()
         {
-            throw new NotImplementedException();
+            return _source;
         }
 
         public void RegisterDelivery(string source, string destination, List<IProduct> products)
         {
-            throw new NotImplementedException();
+            _source = source;
+            _destination = destination;
+            _products = products;
         }
     }
 }

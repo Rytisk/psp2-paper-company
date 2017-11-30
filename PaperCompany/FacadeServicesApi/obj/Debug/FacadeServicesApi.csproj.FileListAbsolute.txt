@@ -1,0 +1,10 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\FacadeServicesApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\FacadeServicesApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.pdb

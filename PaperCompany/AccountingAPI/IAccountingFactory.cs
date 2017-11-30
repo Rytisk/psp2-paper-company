@@ -8,6 +8,6 @@ namespace Company.Entities.Accounting.Api
 {
     public interface IAccountingFactory
     {
-        IAccountant CreateAccountant();
+        IAccountant CreateAccountant(string firstName, string lastName);
     }
 }

@@ -9,6 +9,6 @@ namespace Company.Entities.Sales.Api
     public interface ISalesFactory
     {
         IOrder CreateOrder(decimal unitPrice);
-        ISalesman CreateSalesman();
+        ISalesman CreateSalesman(string firstName, string lastName);
     }
 }

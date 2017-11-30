@@ -7,16 +7,16 @@ using Company.Entities.Sales.Api;
 
 namespace Company.Entities.Sales.Senior
 {
-    class SeniorSalesFactory : ISalesFactory
+    public class SeniorSalesFactory : ISalesFactory
     {
         public IOrder CreateOrder(decimal unitPrice)
         {
             return new BigOrder(unitPrice);
         }
 
-        public ISalesman CreateSalesman()
+        public ISalesman CreateSalesman(string firstName, string lastName)
         {
-            return new SeniorSalesman();
+            return new SeniorSalesman(firstName, lastName);
         }
     }
 }

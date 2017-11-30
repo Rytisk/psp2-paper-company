@@ -9,6 +9,8 @@ namespace Company.Entities.Sales.Api
     public interface ISalesman
     {
         string SalesmanId { get; }
+        string FirstName { get; }
+        string LastName { get; }
         decimal GetYearQuota();
         void TakeCommisions(IOrder order);
         void AddToYearQuota(decimal moneyEarned);

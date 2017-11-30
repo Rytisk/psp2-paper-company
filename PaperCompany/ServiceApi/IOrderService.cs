@@ -10,5 +10,7 @@ namespace Company.Services.Api
     public interface IOrderService
     {
         IOrder CreateOrder(List<string> productsIds, decimal unitPrice, string salesmanId);
+        IOrder GetOrder(string orderId);
+        List<IOrder> GetAllOrders();
     }
 }

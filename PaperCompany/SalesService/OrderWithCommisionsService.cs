@@ -9,7 +9,7 @@ using Company.Services.Api;
 
 namespace Company.Services.Sales
 {
-    class OrderWithCommisionsService : IOrderService
+    public class OrderWithCommisionsService : IOrderService
     {
         private ISalesFactory _salesFactory;
         private ISalesmanRepository _salesmanRepository;
@@ -35,6 +35,16 @@ namespace Company.Services.Sales
             _orderRepository.Add(order);
 
             return order;
+        }
+
+        public List<IOrder> GetAllOrders()
+        {
+            return _orderRepository.GetAll();
+        }
+
+        public IOrder GetOrder(string orderId)
+        {
+            return _orderRepository.GetById(orderId);
         }
     }
 }

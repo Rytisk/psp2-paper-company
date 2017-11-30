@@ -8,7 +8,7 @@ using Company.Repository.Api;
 
 namespace Company.Repository.Sales
 {
-    class InMemorySalesmanRepository : ISalesmanRepository
+    public class InMemorySalesmanRepository : ISalesmanRepository
     {
         private List<ISalesman> _salesmans = new List<ISalesman>();
 

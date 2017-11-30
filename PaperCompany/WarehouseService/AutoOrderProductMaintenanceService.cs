@@ -9,7 +9,7 @@ using Company.Entities.Warehouse.Api;
 
 namespace Company.Services.Warehouse
 {
-    class AutoOrderProductMaintenanceService : IProductMaintenanceService
+    public class AutoOrderProductMaintenanceService : IProductMaintenanceService
     {
         private const int LIMIT = 5;
         private const int AUTO_DELIVERY_UNIT_QUANTITY = 2;
@@ -24,6 +24,21 @@ namespace Company.Services.Warehouse
             _warehouseFactory = warehouseFactory;
             _productRepository = productRepository;
             _deliveryRepository = deliveryRepository;
+        }
+
+        public IDelivery DeliverProductsToWarehouse(int quantity, string source)
+        {
+            List<IProduct> products = new List<IProduct>();
+            for(int i = 0; i < quantity; i++)
+            {
+                IProduct product = _warehouseFactory.CreateProduct();
+                products.Add(product);
+                _productRepository.Add(product);
+            }
+            IDelivery delivery = _warehouseFactory.CreateDelivery();
+            delivery.RegisterDelivery(source, WAREHOUSE_ADDRESS, products);
+            _deliveryRepository.Add(delivery);
+            return delivery;
         }
 
         public bool EnoughProducts(int quantity)

@@ -77,13 +77,85 @@
       <Project>{72c00158-ea0d-4cd7-b7b2-9f09c411985a}</Project>
       <Name>AccountingServices</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ExportWarehouse\PrinterDivision.csproj">
+      <Project>{2d222f67-f2ec-4236-b75c-36e2ce32a36e}</Project>
+      <Name>PrinterDivision</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FacadeServicesApi\FacadeServicesApi.csproj">
+      <Project>{972781e8-8cec-4f6f-9dcb-76b7fe905771}</Project>
+      <Name>FacadeServicesApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FacadeServices\FacadeServices.csproj">
+      <Project>{1324066e-f732-43f6-be97-7e891806be15}</Project>
+      <Name>FacadeServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FinanceAccounting\FinanceAccounting.csproj">
       <Project>{a78b60be-d9aa-449a-95f6-81607ddde197}</Project>
       <Name>FinanceAccounting</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ImportWarehouse\PaperDivision.csproj">
+      <Project>{eb08f13d-4a90-41ab-83a9-8a62c74993b7}</Project>
+      <Name>PaperDivision</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MailAPI\MailAPI.csproj">
+      <Project>{9f36d851-2bc8-4632-977b-4d1e85310060}</Project>
+      <Name>MailAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mail\Gmail.csproj">
+      <Project>{9893def9-5837-4ecd-8bf4-dd01e2a79980}</Project>
+      <Name>Gmail</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ManagementAccounting\ManagementAccounting.csproj">
       <Project>{148445f0-8eba-4eac-9abc-500a3f4cc3e3}</Project>
       <Name>ManagementAccounting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PaperSales\SeniorSales.csproj">
+      <Project>{c966a8cf-40bd-4448-bf19-e5de839a3b74}</Project>
+      <Name>SeniorSales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PrinterSales\AssociateSales.csproj">
+      <Project>{bdd39a50-96f3-4a72-898c-98e3cdad6376}</Project>
+      <Name>AssociateSales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepositoryAPI\WarehouseRepositoryAPI.csproj">
+      <Project>{c1ed3ed6-8528-4276-a350-0f1447a0ec17}</Project>
+      <Name>WarehouseRepositoryAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesAPI\SalesAPI.csproj">
+      <Project>{df2fd2a0-ab82-4960-b97a-d9b6891ac989}</Project>
+      <Name>SalesAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesRepositoryAPI\SalesRepositoryAPI.csproj">
+      <Project>{90f44bd5-5984-41da-bc31-8201b01d786c}</Project>
+      <Name>SalesRepositoryAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesRepository\SalesRepository.csproj">
+      <Project>{0ac2d83a-923d-423c-9e9c-3cae41249fea}</Project>
+      <Name>SalesRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesService\SalesServices.csproj">
+      <Project>{fc4fcb79-d804-4895-a58c-4ed10c0f3bdf}</Project>
+      <Name>SalesServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceApi\SalesServiceApi.csproj">
+      <Project>{c9eeb4be-a627-4e95-bed9-2d40890664a7}</Project>
+      <Name>SalesServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WarehouseAPI\WarehouseAPI.csproj">
+      <Project>{fdc3148b-9076-4b01-bda2-ba6261a5b7df}</Project>
+      <Name>WarehouseAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WarehouseRepository\WarehouseRepository.csproj">
+      <Project>{dea992fa-422c-4bf1-8c31-72bc24d8d9a8}</Project>
+      <Name>WarehouseRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WarehouseServiceApi\WarehouseServiceApi.csproj">
+      <Project>{e14d44b6-11c8-44ba-8c59-d72732773120}</Project>
+      <Name>WarehouseServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WarehouseService\WarehouseServices.csproj">
+      <Project>{034016fd-1e61-4eda-aa20-b4c94c0012aa}</Project>
+      <Name>WarehouseServices</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

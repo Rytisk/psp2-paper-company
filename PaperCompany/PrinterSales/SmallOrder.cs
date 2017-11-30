@@ -7,7 +7,7 @@ using Company.Entities.Sales.Api;
 
 namespace Company.Entities.Sales.Associate
 {
-    class SmallOrder : IOrder
+    public class SmallOrder : IOrder
     {
         private List<string> _products = new List<string>();
         private decimal _unitPrice;

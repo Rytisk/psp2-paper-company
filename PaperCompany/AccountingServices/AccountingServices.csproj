@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NormalAccountantService.cs" />
     <Compile Include="NormalReportService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShadyReportService.cs" />

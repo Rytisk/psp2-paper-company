@@ -22,5 +22,10 @@ namespace Company.Entities.Warehouse.PaperDivision
         {
             return UNIT_PRICE;
         }
+
+        public string GetName()
+        {
+            return "Paper";
+        }
     }
 }

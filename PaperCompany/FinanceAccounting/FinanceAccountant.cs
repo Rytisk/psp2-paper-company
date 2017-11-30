@@ -15,9 +15,11 @@ namespace Company.Entities.Accounting.Finance
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public FinanceAccountant()
+        public FinanceAccountant(string firstName, string lastName)
         {
             AccountantId = Guid.NewGuid().ToString();
+            FirstName = firstName;
+            LastName = lastName;
         }
 
         public IReport WriteReport(string description)
@@ -27,7 +29,7 @@ namespace Company.Entities.Accounting.Finance
 
         public void LogAnOrder(List<string> productsIds, decimal unitPrice, string orderId)
         {
-            _reportData += string.Format("OrderId: {0}, products quantity: {1}, unitPrice: {2}, totalPrice: {3}.\n", orderId, productsIds.Count, unitPrice, unitPrice * productsIds.Count);
+            _reportData = string.Format("OrderId: {0}, products quantity: {1}, unitPrice: {2}, totalPrice: {3}.\n", orderId, productsIds.Count, unitPrice, unitPrice * productsIds.Count);
         }
     }
 }

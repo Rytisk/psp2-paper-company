@@ -9,9 +9,9 @@ namespace Company.Entities.Accounting.Finance
 {
     public class FinanceAccountingFactory : IAccountingFactory
     {
-        public IAccountant CreateAccountant()
+        public IAccountant CreateAccountant(string firstName, string lastName)
         {
-            return new FinanceAccountant();
+            return new FinanceAccountant(firstName, lastName);
         }
     }
 }

@@ -8,7 +8,7 @@ using Company.Repository.Api;
 
 namespace Company.Repository.Warehouse
 {
-    class InMemoryProductRepository : IProductRepository
+    public class InMemoryProductRepository : IProductRepository
     {
         private List<IProduct> _products = new List<IProduct>();
 

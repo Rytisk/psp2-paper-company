@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Company.Services.Sales
 {
-    class OrderWithoutCommisionService
+    public class OrderWithoutCommisionService
     {
         private ISalesFactory _salesFactory;
         private ISalesmanRepository _salesmanRepository;
@@ -32,6 +32,16 @@ namespace Company.Services.Sales
 
             _orderRepository.Add(order);
             return order;
+        }
+
+        public IOrder GetOrder(string orderId)
+        {
+            return _orderRepository.GetById(orderId);
+        }
+
+        public List<IOrder> GetAllOrders()
+        {
+            return _orderRepository.GetAll();
         }
     }
 }

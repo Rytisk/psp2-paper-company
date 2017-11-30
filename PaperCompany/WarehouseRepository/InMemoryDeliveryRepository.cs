@@ -7,7 +7,7 @@ using Company.Entities.Warehouse.Api;
 using Company.Repository.Api;
 namespace Company.Repository.Warehouse
 {
-    class InMemoryDeliveryRepository : IDeliveryRepository
+    public class InMemoryDeliveryRepository : IDeliveryRepository
     {
         private List<IDelivery> _deliveries = new List<IDelivery>();
 

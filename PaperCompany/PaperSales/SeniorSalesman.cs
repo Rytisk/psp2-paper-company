@@ -7,16 +7,21 @@ using Company.Entities.Sales.Api;
 
 namespace Company.Entities.Sales.Senior
 {
-    class SeniorSalesman : ISalesman
+    public class SeniorSalesman : ISalesman
     {
         private decimal _earnedMoney;
         private decimal _commisions;
-        
+
+        public string FirstName { get; private set; }
+        public string LastName { get; private set; }
+
         public string SalesmanId { get; private set; }
 
-        public SeniorSalesman()
+        public SeniorSalesman(string firstName, string lastName)
         {
             SalesmanId = Guid.NewGuid().ToString();
+            FirstName = firstName;
+            LastName = lastName;
         }
 
         public decimal GetYearQuota()
