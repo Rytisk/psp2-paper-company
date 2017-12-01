@@ -10,5 +10,6 @@ namespace Company.Entities.Warehouse.Api
     {
         decimal GetUnitPrice();
         string ProductId { get; }
+        string GetName();
     }
 }

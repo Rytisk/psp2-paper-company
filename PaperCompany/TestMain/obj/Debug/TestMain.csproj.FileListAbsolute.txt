@@ -57,3 +57,5 @@ D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\WarehouseAPI.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\WarehouseRepository.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\WarehouseServiceApi.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\WarehouseServices.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\ConsoleUI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\TestMain\bin\Debug\ConsoleUI.pdb

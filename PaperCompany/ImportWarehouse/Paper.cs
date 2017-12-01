@@ -7,7 +7,7 @@ using Company.Entities.Warehouse.Api;
 
 namespace Company.Entities.Warehouse.PaperDivision
 {
-    class Paper : IProduct
+    public class Paper : IProduct
     {
         private const decimal UNIT_PRICE = 20.5m; 
 

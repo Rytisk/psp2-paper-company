@@ -9,7 +9,7 @@ namespace Company.Repository.Api
 {
     public interface IAccountantRepository
     {
-        void Add(IAccountant payment);
+        void Add(IAccountant accountant);
         void Delete(string accountantId);
         IAccountant GetById(string accountantId);
         List<IAccountant> GetAll();

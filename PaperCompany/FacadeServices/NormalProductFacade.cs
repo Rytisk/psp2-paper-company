@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Company.Entities.Warehouse.Api;
 using Company.Facade.Api;
 using Company.Services.Api;
 
@@ -20,6 +21,16 @@ namespace Company.Facade.Services
         public void DeliverProductsToWarehouse(int quantity, string source)
         {
             _productMaintenanceService.DeliverProductsToWarehouse(quantity, source);
+        }
+
+        public List<IProduct> GetAllProducts()
+        {
+            return _productMaintenanceService.GetAllProducts();
+        }
+
+        public IProduct GetProduct(string productId)
+        {
+            return _productMaintenanceService.GetProduct(productId);
         }
     }
 }

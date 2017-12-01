@@ -19,6 +19,14 @@ using Company.Entities.Warehouse.Api;
 using Company.Entities.Warehouse.PrinterDivision;
 using Company.Repository.Warehouse;
 using Company.Repository.Api;
+using Company.UI.Console.Controllers;
+using Company.UI.Console;
+using Autofac.Builder;
+using Autofac.Core;
+using Autofac.Features;
+using Autofac.Util;
+using Autofac;
+using Company.Entities.Warehouse.PaperDivision;
 
 namespace TestMain
 {
@@ -26,21 +34,46 @@ namespace TestMain
     {
         static void Main(string[] args)
         {
-            ISalesmanRepository salesmanRepository = new InMemorySalesmanRepository();
-            ISalesman salesman = new SeniorSalesFactory().CreateSalesman("Jonas", "Jonaitis");
-            salesmanRepository.Add(salesman);
-            IProductRepository productRepository = new InMemoryProductRepository();
-            IProduct product = new PrinterDivisionFactory().CreateProduct();
-            IProduct product2 = new PrinterDivisionFactory().CreateProduct();
-            productRepository.Add(product);
-            productRepository.Add(product2);
+            var builder = new ContainerBuilder();
+            //Factories
+            builder.RegisterType<SeniorSalesFactory>().As<ISalesFactory>();
+            builder.RegisterType<PaperDivisionFactory>().As<IWarehouseFactory>();
+            builder.RegisterType<FinanceAccountingFactory>().As<IAccountingFactory>();
 
-            IOrderFacade orderFacade = new NormalOrderFacade(new OrderWithCommisionsService(new SeniorSalesFactory(), salesmanRepository, new InMemoryOrderRepository()), new AutoOrderProductMaintenanceService(new PrinterDivisionFactory(), productRepository, new InMemoryDeliveryRepository()));
+            //Services
+            builder.RegisterType<NormalSalesmanService>().As<ISalesmanService>();
+            builder.RegisterType<NormalAccountantService>().As<IAccountantService>();
+            builder.RegisterType<NormalReportService>().As<IReportService>();
+            builder.RegisterType<OrderWithCommisionsService>().As<IOrderService>();
+            builder.RegisterType<AutoOrderProductMaintenanceService>().As<IProductMaintenanceService>();
 
-            IOrder order = orderFacade.CreateOrder(new List<string>() { product.ProductId }, 20.5m, salesman.SalesmanId);
-            Console.WriteLine(order.OrderId);
-            Console.WriteLine(order.GetTotalPrice());
-            Console.ReadLine();
+            //Repositories
+            builder.RegisterInstance(new InMemoryAccountantRepository()).As<IAccountantRepository>();
+            builder.RegisterInstance(new InMemorySalesmanRepository()).As<ISalesmanRepository>();
+            builder.RegisterInstance(new InMemoryReportRepository()).As<IReportRepository>();
+            builder.RegisterInstance(new InMemoryOrderRepository()).As<IOrderRepository>();
+            builder.RegisterInstance(new InMemoryDeliveryRepository()).As<IDeliveryRepository>();
+            builder.RegisterInstance(new InMemoryProductRepository()).As<IProductRepository>();
+
+            //Integration
+
+            //Facades
+            builder.RegisterType<NormalEmployeeFacade>().As<IEmployeeFacade>();
+            builder.RegisterType<NormalOrderFacade>().As<IOrderFacade>();
+            builder.RegisterType<NormalReportFacade>().As<IReportFacade>();
+            builder.RegisterType<NormalProductFacade>().As<IProductFacade>();
+
+            using (var scope = builder.Build().BeginLifetimeScope())
+            {
+                ConsoleView consoleView = new ConsoleView(new EmployeesController(scope.Resolve<IEmployeeFacade>()), new OrderController(scope.Resolve<IOrderFacade>()), new ProductController(scope.Resolve<IProductFacade>()), new ReportController(scope.Resolve<IReportFacade>()));
+                consoleView.StartConsoleView();
+            }
+
+                
+
+
+
+            
         }
     }
 }

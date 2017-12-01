@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Company.UI.Console.Controllers
 {
-    class ReportController
+    public class ReportController
     {
         private IReportFacade _reportFacade;
 
@@ -17,7 +17,7 @@ namespace Company.UI.Console.Controllers
             _reportFacade = reportFacade;
         }
 
-        string WriteReport(string accountantId, string reportDescription, string orderId)
+        public string WriteReport(string accountantId, string reportDescription, string orderId)
         {
             var report = _reportFacade.WriteReport(accountantId, reportDescription, orderId);
             return string.Format("ReportId: {0}, Info: {1}", report.ReportId, report.GetReportInfo());

@@ -7,7 +7,7 @@ using Company.Entities.Warehouse.Api;
 
 namespace Company.Entities.Warehouse.PrinterDivision
 {
-    public  class PrinterDivisionFactory : IWarehouseFactory
+    public class PrinterDivisionFactory : IWarehouseFactory
     {
         public IDelivery CreateDelivery()
         {

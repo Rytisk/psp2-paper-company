@@ -1,0 +1,14 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\ConsoleUI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\FacadeServicesApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\FacadeServicesApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.pdb

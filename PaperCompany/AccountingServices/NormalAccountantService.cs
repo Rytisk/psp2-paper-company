@@ -27,5 +27,10 @@ namespace Company.Services.Accounting
             _accountantRepository.Add(accountant);
             return accountant;
         }
+
+        public List<IAccountant> GetAllAccountants()
+        {
+            return _accountantRepository.GetAll();
+        }
     }
 }

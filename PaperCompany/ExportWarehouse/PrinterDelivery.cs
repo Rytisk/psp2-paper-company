@@ -7,7 +7,7 @@ using Company.Entities.Warehouse.Api;
 
 namespace Company.Entities.Warehouse.PrinterDivision
 {
-    class PrinterDelivery : IDelivery
+    public class PrinterDelivery : IDelivery
     {
         private string _destination;
         private string _source;

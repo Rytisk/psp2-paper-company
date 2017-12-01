@@ -77,6 +77,10 @@
       <Project>{72c00158-ea0d-4cd7-b7b2-9f09c411985a}</Project>
       <Name>AccountingServices</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ConsoleUI\ConsoleUI.csproj">
+      <Project>{14828355-47e2-4af9-a522-935575b04fdb}</Project>
+      <Name>ConsoleUI</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ExportWarehouse\PrinterDivision.csproj">
       <Project>{2d222f67-f2ec-4236-b75c-36e2ce32a36e}</Project>
       <Name>PrinterDivision</Name>

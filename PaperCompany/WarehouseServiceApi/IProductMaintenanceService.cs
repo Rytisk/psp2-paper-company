@@ -11,5 +11,7 @@ namespace Company.Services.Api
     {
         bool EnoughProducts(int quantity);
         IDelivery DeliverProductsToWarehouse(int quantity, string source);
+        List<IProduct> GetAllProducts();
+        IProduct GetProduct(string productId);
     }
 }

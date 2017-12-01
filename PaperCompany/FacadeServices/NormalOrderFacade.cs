@@ -26,7 +26,7 @@ namespace Company.Facade.Services
             {
                 throw new Exception("Not enough products in the warehouse!");
             }
-
+            
             return _orderService.CreateOrder(prodctsIds, unitPrice, salesmanId);
         }
     }

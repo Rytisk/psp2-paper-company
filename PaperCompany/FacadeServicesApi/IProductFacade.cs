@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Company.Entities.Warehouse.Api;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,5 +10,7 @@ namespace Company.Facade.Api
     public interface IProductFacade
     {
         void DeliverProductsToWarehouse(int quantity, string source);
+        IProduct GetProduct(string productId);
+        List<IProduct> GetAllProducts();
     }
 }

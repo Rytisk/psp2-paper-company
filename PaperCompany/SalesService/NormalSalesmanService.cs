@@ -27,5 +27,10 @@ namespace Company.Services.Sales
             _salesmanRepository.Add(salesman);
             return salesman;
         }
+
+        public List<ISalesman> GetAllSalesmans()
+        {
+            return _salesmanRepository.GetAll();
+        }
     }
 }

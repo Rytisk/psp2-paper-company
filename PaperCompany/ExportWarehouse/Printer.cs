@@ -21,5 +21,10 @@ namespace Company.Entities.Warehouse.PrinterDivision
         {
             return UNIT_PRICE;
         }
+
+        public string GetName()
+        {
+            return "Printer";
+        }
     }
 }

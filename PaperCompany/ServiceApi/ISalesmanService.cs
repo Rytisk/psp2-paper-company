@@ -10,5 +10,6 @@ namespace Company.Services.Api
     public interface ISalesmanService
     {
         ISalesman CreateSalesman(string firstName, string lastName);
+        List<ISalesman> GetAllSalesmans();
     }
 }

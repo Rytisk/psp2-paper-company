@@ -10,5 +10,6 @@ namespace Company.Services.Api
     public interface IAccountantService
     {
         IAccountant CreateAccountant(string firstName, string lastName);
+        List<IAccountant> GetAllAccountants();
     }
 }

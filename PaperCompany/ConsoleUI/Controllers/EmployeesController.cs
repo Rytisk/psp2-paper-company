@@ -18,14 +18,16 @@ namespace Company.UI.Console.Controllers
             _employeeFacade = employeeFacade;
         }
 
-        public void CreateAccountant(string firstName, string lastName)
+        public string CreateAccountant(string firstName, string lastName)
         {
             IAccountant accountant = _employeeFacade.CreateAccountant(firstName, lastName);
+            return accountant.AccountantId;
         }
 
-        public void CreateSalesman(string firstName, string lastName)
+        public string CreateSalesman(string firstName, string lastName)
         {
             ISalesman salesman = _employeeFacade.CreateSalesman(firstName, lastName);
+            return salesman.SalesmanId;
         }
 
         public string GetAllEmployees()

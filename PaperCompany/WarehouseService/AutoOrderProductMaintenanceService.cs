@@ -62,6 +62,16 @@ namespace Company.Services.Warehouse
             return isEnough;
         }
 
+        public List<IProduct> GetAllProducts()
+        {
+            return _productRepository.GetAll();
+        }
+
+        public IProduct GetProduct(string productId)
+        {
+            return _productRepository.GetById(productId);
+        }
+
         private void AutoDeliver()
         {
             IDelivery delivery = _warehouseFactory.CreateDelivery();

@@ -10,7 +10,7 @@ using Company.Entities.Sales.Api;
 
 namespace Company.Facade.Services
 {
-    class NormalReportFacade : IReportFacade
+    public class NormalReportFacade : IReportFacade
     {
         private IReportService _reportService;
         private IOrderService _orderService;
