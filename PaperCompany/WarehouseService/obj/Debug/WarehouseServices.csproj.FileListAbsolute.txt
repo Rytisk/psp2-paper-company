@@ -10,3 +10,14 @@ D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseSer
 D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.pdb
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\WarehouseServices.dll
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\WarehouseServices.pdb
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\RepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\WarehouseAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\WarehouseServiceApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\RepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\WarehouseAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\bin\Debug\WarehouseServiceApi.pdb
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.dll
+E:\Projects\psp2-paper-company\PaperCompany\WarehouseService\obj\Debug\WarehouseServices.pdb

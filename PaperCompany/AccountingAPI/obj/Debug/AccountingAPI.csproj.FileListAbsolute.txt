@@ -10,3 +10,8 @@ D:\Studies\PSP\PaperCompany\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.c
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\AccountingAPI\bin\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingAPI\bin\Debug\AccountingAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingAPI\obj\Debug\AccountingAPI.pdb

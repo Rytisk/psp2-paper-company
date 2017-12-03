@@ -12,3 +12,16 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.csprojRes
 D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\ConsoleUI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\FacadeServicesApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\WarehouseAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\AccountingAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\FacadeServicesApi.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\bin\Debug\WarehouseAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ConsoleUI\obj\Debug\ConsoleUI.pdb

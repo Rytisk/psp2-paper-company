@@ -6,3 +6,10 @@ D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseReposi
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\RepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\RepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.pdb

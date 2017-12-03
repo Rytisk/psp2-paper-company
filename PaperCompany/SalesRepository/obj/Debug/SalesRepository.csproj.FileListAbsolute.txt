@@ -8,3 +8,12 @@ D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepository\obj\Debug\SalesReposito
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepository\obj\Debug\SalesRepository.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepository\obj\Debug\SalesRepository.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepository\obj\Debug\SalesRepository.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\bin\Debug\SalesRepository.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\bin\Debug\SalesRepository.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\bin\Debug\SalesRepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\bin\Debug\SalesRepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\obj\Debug\SalesRepository.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\obj\Debug\SalesRepository.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepository\obj\Debug\SalesRepository.pdb

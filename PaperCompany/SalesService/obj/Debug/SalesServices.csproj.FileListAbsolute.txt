@@ -10,3 +10,14 @@ D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.cs
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesService\obj\Debug\SalesServices.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesServices.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesServices.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesRepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesServiceApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesRepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\bin\Debug\SalesServiceApi.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\obj\Debug\SalesServices.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\obj\Debug\SalesServices.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesService\obj\Debug\SalesServices.pdb

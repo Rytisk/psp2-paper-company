@@ -14,3 +14,10 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\Manageme
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.dll
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.dll
+E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.pdb

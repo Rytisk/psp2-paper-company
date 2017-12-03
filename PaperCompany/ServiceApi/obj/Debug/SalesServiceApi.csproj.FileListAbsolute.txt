@@ -6,3 +6,10 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.pd
 D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.csprojResolveAssemblyReference.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\bin\Debug\SalesAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ServiceApi\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\bin\Debug\SalesServiceApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\bin\Debug\SalesServiceApi.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\ServiceApi\obj\Debug\SalesServiceApi.pdb

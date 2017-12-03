@@ -6,3 +6,10 @@ D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.c
 D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\PrinterSales\obj\Debug\AssociateSales.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\bin\Debug\AssociateSales.dll
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\bin\Debug\AssociateSales.pdb
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\obj\Debug\AssociateSales.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\obj\Debug\AssociateSales.dll
+E:\Projects\psp2-paper-company\PaperCompany\PrinterSales\obj\Debug\AssociateSales.pdb

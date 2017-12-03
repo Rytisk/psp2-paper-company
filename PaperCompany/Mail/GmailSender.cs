@@ -7,7 +7,7 @@ using Company.Integration.Api;
 using System.Net.Mail;
 using System.Net;
 
-namespace Company.Integration.Mail
+namespace Company.Integration.Services
 {
     public class GmailSender : IMailSender
     {
@@ -31,7 +31,7 @@ namespace Company.Integration.Mail
                 Body = body
             })
             {
-                smtp.Send(message);
+                //smtp.Send(message);
             }
         }
     }

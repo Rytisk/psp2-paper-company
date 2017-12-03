@@ -8,3 +8,12 @@ D:\Studies\PSP\PaperCompany\PaperCompany\AccountingRepository\obj\Debug\Accounti
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingRepository\obj\Debug\AccountingRepository.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingRepository\obj\Debug\AccountingRepository.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingRepository\obj\Debug\AccountingRepository.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\bin\Debug\AccountingRepository.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\bin\Debug\AccountingRepository.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\bin\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\bin\Debug\AccountingRepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\bin\Debug\AccountingAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\bin\Debug\AccountingRepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\obj\Debug\AccountingRepository.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\obj\Debug\AccountingRepository.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingRepository\obj\Debug\AccountingRepository.pdb

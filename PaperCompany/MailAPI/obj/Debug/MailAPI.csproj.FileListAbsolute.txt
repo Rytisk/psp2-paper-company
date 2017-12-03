@@ -4,3 +4,8 @@ D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.csprojResolve
 D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\MailAPI\bin\Debug\MailAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\MailAPI\bin\Debug\MailAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\MailAPI\obj\Debug\MailAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\MailAPI\obj\Debug\MailAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\MailAPI\obj\Debug\MailAPI.pdb

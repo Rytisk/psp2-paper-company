@@ -10,3 +10,14 @@ D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServi
 D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\WarehouseAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\FacadeServicesApi\bin\Debug\WarehouseAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\FacadeServicesApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\FacadeServicesApi.pdb
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\WarehouseAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\AccountingAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\bin\Debug\WarehouseAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\FacadeServicesApi\obj\Debug\FacadeServicesApi.pdb

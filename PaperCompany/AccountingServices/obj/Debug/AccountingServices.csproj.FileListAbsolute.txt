@@ -10,3 +10,14 @@ D:\Studies\PSP\PaperCompany\PaperCompany\AccountingServices\obj\Debug\Accounting
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingServices\obj\Debug\AccountingServices.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingServices\obj\Debug\AccountingServices.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\AccountingServices\obj\Debug\AccountingServices.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingServices.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingServices.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingRepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingServiceApi.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingRepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\bin\Debug\AccountingServiceApi.pdb
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\obj\Debug\AccountingServices.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\obj\Debug\AccountingServices.dll
+E:\Projects\psp2-paper-company\PaperCompany\AccountingServices\obj\Debug\AccountingServices.pdb

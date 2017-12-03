@@ -6,3 +6,10 @@ D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepos
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.pdb

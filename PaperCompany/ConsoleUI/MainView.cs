@@ -30,7 +30,7 @@ namespace Company.UI.Console
             {
                 System.Console.WriteLine("1. Create accountant\n2. Create salesman\n3. Get all employees\n4. Create order\n5. Deliver products to warehouse\n6. Get all products\n7. Write report\n");
                 string choice = System.Console.ReadLine();
-                switch(choice)
+                switch (choice)
                 {
                     case "1":
                         CreateAccountant();
@@ -59,66 +59,64 @@ namespace Company.UI.Console
                     default:
                         System.Console.WriteLine("No such option");
                         break;
-
-                }
-
-                void CreateAccountant()
-                {
-                    System.Console.WriteLine("Enter first and last names: \n");
-                    string accName = System.Console.ReadLine();
-                    string accLast = System.Console.ReadLine();
-                    var accId = _employeesController.CreateAccountant(accName, accLast);
-                    System.Console.WriteLine("Accountant created. Id: " + accId);
-                }
-
-                void CreateSalesman()
-                {
-                    System.Console.WriteLine("Enter first and last names: \n");
-                    string salName = System.Console.ReadLine();
-                    string salLast = System.Console.ReadLine();
-                    var salid = _employeesController.CreateSalesman(salName, salLast);
-                    System.Console.WriteLine("Salesman created. Id: " + salid);
-                }
-
-                void CreateOrder()
-                {
-                    System.Console.WriteLine("Enter product quantity: ");
-                    int productQt = int.Parse(System.Console.ReadLine());
-                    List<string> productIds = new List<string>();
-                    for (int i = 0; i < productQt; i++)
-                    {
-                        System.Console.WriteLine("Enter product id: ");
-                        productIds.Add(System.Console.ReadLine());
-                    }
-                    System.Console.WriteLine("Enter unit price: ");
-                    decimal price = decimal.Parse(System.Console.ReadLine());
-                    System.Console.WriteLine("Enter salesman id: ");
-                    string salesmanid = System.Console.ReadLine();
-                    var info = _orderController.CreateOrder(productIds, price, salesmanid);
-                    System.Console.WriteLine(info);
-                }
-
-                void DeliverProducts()
-                {
-                    System.Console.WriteLine("Enter product quantity: ");
-                    int quantity = int.Parse(System.Console.ReadLine());
-                    System.Console.WriteLine("Enter supplier address: ");
-                    string address = System.Console.ReadLine();
-                    _productController.DeliverProductsToWarehouse(quantity, address);
-                }
-
-                void WriteReport()
-                {
-                    System.Console.WriteLine("Enter accountant id: ");
-                    string accountantId = System.Console.ReadLine();
-                    System.Console.WriteLine("Enter report description: ");
-                    string description = System.Console.ReadLine();
-                    System.Console.WriteLine("Enter order id: ");
-                    string orderId = System.Console.ReadLine();
-                    var orderInfo = _reportController.WriteReport(accountantId, description, orderId);
-                    System.Console.WriteLine(orderInfo);
                 }
             }
+        }
+        private void CreateAccountant()
+        {
+            System.Console.WriteLine("Enter first and last names: \n");
+            string accName = System.Console.ReadLine();
+            string accLast = System.Console.ReadLine();
+            var accId = _employeesController.CreateAccountant(accName, accLast);
+            System.Console.WriteLine("Accountant created. Id: " + accId);
+        }
+
+        private void CreateSalesman()
+        {
+            System.Console.WriteLine("Enter first and last names: \n");
+            string salName = System.Console.ReadLine();
+            string salLast = System.Console.ReadLine();
+            var salid = _employeesController.CreateSalesman(salName, salLast);
+            System.Console.WriteLine("Salesman created. Id: " + salid);
+        }
+
+        private void CreateOrder()
+        {
+            System.Console.WriteLine("Enter product quantity: ");
+            int productQt = int.Parse(System.Console.ReadLine());
+            List<string> productIds = new List<string>();
+            for (int i = 0; i < productQt; i++)
+            {
+                System.Console.WriteLine("Enter product id: ");
+                productIds.Add(System.Console.ReadLine());
+            }
+            System.Console.WriteLine("Enter unit price: ");
+            decimal price = decimal.Parse(System.Console.ReadLine());
+            System.Console.WriteLine("Enter salesman id: ");
+            string salesmanid = System.Console.ReadLine();
+            var info = _orderController.CreateOrder(productIds, price, salesmanid);
+            System.Console.WriteLine(info);
+        }
+
+        private void DeliverProducts()
+        {
+            System.Console.WriteLine("Enter product quantity: ");
+            int quantity = int.Parse(System.Console.ReadLine());
+            System.Console.WriteLine("Enter supplier address: ");
+            string address = System.Console.ReadLine();
+            _productController.DeliverProductsToWarehouse(quantity, address);
+        }
+
+        private void WriteReport()
+        {
+            System.Console.WriteLine("Enter accountant id: ");
+            string accountantId = System.Console.ReadLine();
+            System.Console.WriteLine("Enter report description: ");
+            string description = System.Console.ReadLine();
+            System.Console.WriteLine("Enter order id: ");
+            string orderId = System.Console.ReadLine();
+            var orderInfo = _reportController.WriteReport(accountantId, description, orderId);
+            System.Console.WriteLine(orderInfo);
         }
     }
 }
