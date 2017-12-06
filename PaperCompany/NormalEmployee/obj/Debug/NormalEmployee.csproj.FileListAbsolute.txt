@@ -1,0 +1,16 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\NormalEmployee.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\NormalEmployee.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\AccountantService.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\EmployeeFacadeApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\SalesmanServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\AccountantService.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\EmployeeFacadeApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\bin\Debug\SalesmanServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\obj\Debug\NormalEmployee.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\obj\Debug\NormalEmployee.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\obj\Debug\NormalEmployee.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalEmployee\obj\Debug\NormalEmployee.pdb

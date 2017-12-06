@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\NormalSalesman.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\NormalSalesman.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\SalesmanServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\SalesRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\SalesmanServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\bin\Debug\SalesRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.pdb

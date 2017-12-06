@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Company.Services.Api;
-using Company.Entities.Sales.Api;
+using Company.Entities.SalesApi;
 using Company.Repository.Api;
 
 namespace Company.Services.Sales

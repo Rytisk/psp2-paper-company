@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\NormalProductMaintenance.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\NormalProductMaintenance.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\RepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\RepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.pdb

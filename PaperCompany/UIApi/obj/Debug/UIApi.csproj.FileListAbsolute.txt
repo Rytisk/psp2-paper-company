@@ -1,0 +1,5 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\bin\Debug\UIApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\bin\Debug\UIApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\obj\Debug\UIApi.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\obj\Debug\UIApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\obj\Debug\UIApi.pdb

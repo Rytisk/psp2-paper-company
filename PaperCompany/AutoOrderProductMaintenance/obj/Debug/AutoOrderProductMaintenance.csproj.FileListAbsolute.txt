@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\AutoOrderProductMaintenance.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\AutoOrderProductMaintenance.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\RepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\WarehouseServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\RepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\bin\Debug\WarehouseServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\obj\Debug\AutoOrderProductMaintenance.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\obj\Debug\AutoOrderProductMaintenance.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\obj\Debug\AutoOrderProductMaintenance.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AutoOrderProductMaintenance\obj\Debug\AutoOrderProductMaintenance.pdb

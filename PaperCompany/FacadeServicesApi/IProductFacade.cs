@@ -1,4 +1,4 @@
-﻿using Company.Entities.Warehouse.Api;
+﻿using Company.Entities.WarehouseApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;

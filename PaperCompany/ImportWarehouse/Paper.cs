@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.Warehouse.Api;
+using Company.Entities.WarehouseApi;
 
-namespace Company.Entities.Warehouse.PaperDivision
+namespace Company.Entities.PaperDivision
 {
     public class Paper : IProduct
     {

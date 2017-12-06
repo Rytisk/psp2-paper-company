@@ -1,11 +1,3 @@
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.dll
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.dll
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csproj.CoreCompileInputs.cache
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.dll
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csprojResolveAssemblyReference.cache
 E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.dll
 E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.pdb
 E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.dll
@@ -13,3 +5,11 @@ E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAP
 E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csprojResolveAssemblyReference.cache
 E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.dll
 E:\Projects\psp2-paper-company\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\SalesRepositoryAPI\obj\Debug\SalesRepositoryAPI.pdb

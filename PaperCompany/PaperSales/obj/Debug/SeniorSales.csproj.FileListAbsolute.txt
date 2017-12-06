@@ -1,3 +1,10 @@
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SeniorSales.dll
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SeniorSales.pdb
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SalesAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SalesAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.dll
+E:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\SeniorSales.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\SeniorSales.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\bin\Debug\SalesAPI.dll
@@ -6,10 +13,3 @@ D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.csproj
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.pdb
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SeniorSales.dll
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SeniorSales.pdb
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SalesAPI.dll
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SalesAPI.pdb
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.csprojResolveAssemblyReference.cache
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.dll
-E:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.pdb

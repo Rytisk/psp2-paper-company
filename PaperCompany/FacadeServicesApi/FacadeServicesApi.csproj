@@ -40,10 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IEmployeeFacade.cs" />
-    <Compile Include="IOrderFacade.cs" />
     <Compile Include="IProductFacade.cs" />
-    <Compile Include="IReportFacade.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

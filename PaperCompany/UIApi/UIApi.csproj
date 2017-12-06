@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4C881F3E-F919-430B-B180-1CC86170CA33}</ProjectGuid>
+    <ProjectGuid>{D1D2C19D-B478-4F2A-B1D4-537B1BFCAF08}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Company.UI.Api</RootNamespace>
+    <RootNamespace>UIApi</RootNamespace>
     <AssemblyName>UIApi</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -40,11 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\IAccountantController.cs" />
+    <Compile Include="Controllers\IManagerController.cs" />
+    <Compile Include="Controllers\ISalesmanController.cs" />
+    <Compile Include="Views\IAccountantView.cs" />
+    <Compile Include="Views\IManagerView.cs" />
+    <Compile Include="Views\ISalesmanView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Views\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

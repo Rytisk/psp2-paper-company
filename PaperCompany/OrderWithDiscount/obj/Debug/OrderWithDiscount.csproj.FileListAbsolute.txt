@@ -1,0 +1,16 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\OrderWithDiscount.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\OrderWithDiscount.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\OrderFacadeApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\OrderServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\WarehouseServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\OrderFacadeApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\OrderServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\WarehouseServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\obj\Debug\OrderWithDiscount.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\obj\Debug\OrderWithDiscount.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\obj\Debug\OrderWithDiscount.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithDiscount\obj\Debug\OrderWithDiscount.pdb

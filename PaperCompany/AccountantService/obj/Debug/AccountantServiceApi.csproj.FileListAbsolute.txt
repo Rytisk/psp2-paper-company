@@ -1,0 +1,8 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\bin\Debug\AccountantService.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\bin\Debug\AccountantService.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\obj\Debug\AccountantServiceApi.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\obj\Debug\AccountantServiceApi.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\obj\Debug\AccountantService.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\AccountantService\obj\Debug\AccountantService.pdb

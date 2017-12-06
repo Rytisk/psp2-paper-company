@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Company.Services.Api;
 using Company.Repository.Api;
-using Company.Entities.Warehouse.Api;
+using Company.Entities.WarehouseApi;
 
 namespace Company.Services.Warehouse
 {

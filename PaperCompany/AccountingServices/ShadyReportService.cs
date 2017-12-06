@@ -1,4 +1,4 @@
-﻿using Company.Entities.Accounting.Api;
+﻿using Company.Entities.AccountingApi;
 using Company.Repository.Api;
 using System;
 using System.Collections.Generic;

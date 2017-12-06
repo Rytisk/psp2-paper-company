@@ -1,0 +1,16 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\NormalOrder.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\NormalOrder.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\OrderFacadeApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\OrderServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\SalesAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\WarehouseServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\OrderServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\SalesAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\WarehouseServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\OrderFacadeApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\obj\Debug\NormalOrder.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\obj\Debug\NormalOrder.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\obj\Debug\NormalOrder.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\NormalOrder\obj\Debug\NormalOrder.pdb

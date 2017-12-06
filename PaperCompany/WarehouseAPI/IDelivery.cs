@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entities.Warehouse.Api
+namespace Company.Entities.WarehouseApi
 {
     public interface IDelivery
     {

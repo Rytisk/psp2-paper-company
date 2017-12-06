@@ -54,10 +54,6 @@
       <Project>{4143f492-f8bb-4068-92af-d880aaface82}</Project>
       <Name>AccountingRepositoryAPI</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AccountingServiceApi\AccountingServiceApi.csproj">
-      <Project>{940dda39-0e26-44f9-8aa1-d454362abafc}</Project>
-      <Name>AccountingServiceApi</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,8 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\bin\Debug\ReportServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\bin\Debug\ReportServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\obj\Debug\ReportServiceApi.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\obj\Debug\ReportServiceApi.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\obj\Debug\ReportServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ReportServiceApi\obj\Debug\ReportServiceApi.pdb

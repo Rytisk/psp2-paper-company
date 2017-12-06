@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E1E4E21-46D7-4588-8407-FECC81B1498B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NormalEmployee</RootNamespace>
+    <AssemblyName>NormalEmployee</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NormalEmployeeFacade.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountantService\AccountantServiceApi.csproj">
+      <Project>{15f35fe5-856e-4f67-8f04-fefe406af224}</Project>
+      <Name>AccountantServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountingAPI\AccountingAPI.csproj">
+      <Project>{d2fa3592-3e4e-4a40-b916-983d05192264}</Project>
+      <Name>AccountingAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Facade\EmployeeFacadeApi\EmployeeFacadeApi.csproj">
+      <Project>{7bddf57a-bef4-4eed-8ca6-e0c97fa7e5c5}</Project>
+      <Name>EmployeeFacadeApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesAPI\SalesAPI.csproj">
+      <Project>{df2fd2a0-ab82-4960-b97a-d9b6891ac989}</Project>
+      <Name>SalesAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesmanServiceApi\SalesmanServiceApi.csproj">
+      <Project>{a617dc25-2062-43ec-91cd-6d4a07b494f2}</Project>
+      <Name>SalesmanServiceApi</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

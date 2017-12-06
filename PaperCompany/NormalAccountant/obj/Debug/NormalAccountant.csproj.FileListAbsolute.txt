@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\NormalAccountant.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\NormalAccountant.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\AccountantService.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\AccountingRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\AccountantService.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.pdb

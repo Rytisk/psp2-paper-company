@@ -1,0 +1,8 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\bin\Debug\ProductFacadeApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\bin\Debug\ProductFacadeApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\bin\Debug\WarehouseAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\bin\Debug\WarehouseAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\obj\Debug\ProductFacadeApi.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\obj\Debug\ProductFacadeApi.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\obj\Debug\ProductFacadeApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\Facade\ProductFacadeApi\obj\Debug\ProductFacadeApi.pdb

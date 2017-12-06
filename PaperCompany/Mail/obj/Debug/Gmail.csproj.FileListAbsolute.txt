@@ -1,3 +1,10 @@
+E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\Mail.dll
+E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\Mail.pdb
+E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\MailAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\MailAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Gmail.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Mail.dll
+E:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Mail.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\Mail.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\Mail.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\bin\Debug\MailAPI.dll
@@ -6,10 +13,3 @@ D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Gmail.csprojResolveAssem
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Gmail.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Mail.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Mail.pdb
-E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\Mail.dll
-E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\Mail.pdb
-E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\MailAPI.dll
-E:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\MailAPI.pdb
-E:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Gmail.csprojResolveAssemblyReference.cache
-E:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Mail.dll
-E:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Mail.pdb

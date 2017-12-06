@@ -1,3 +1,10 @@
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.dll
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.dll
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.pdb
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision.csprojResolveAssemblyReference.cache
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.dll
+E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.dll
@@ -6,10 +13,3 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.pdb
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.dll
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.pdb
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.dll
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.pdb
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision.csprojResolveAssemblyReference.cache
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.dll
-E:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.pdb

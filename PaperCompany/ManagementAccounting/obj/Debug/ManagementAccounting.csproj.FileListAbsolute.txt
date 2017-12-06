@@ -6,14 +6,6 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ManagementFinancing\obj\Debug\Managemen
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementFinancing\obj\Debug\ManagementAccounting.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementFinancing\obj\Debug\ManagementAccounting.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\ManagementFinancing\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.dll
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.dll
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csproj.CoreCompileInputs.cache
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.dll
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.pdb
-D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
 E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.dll
 E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.pdb
 E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.dll
@@ -21,3 +13,11 @@ E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\bin\Debug\Accou
 E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
 E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.dll
 E:\Projects\psp2-paper-company\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\ManagementAccounting.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ManagementAccounting\obj\Debug\ManagementAccounting.pdb

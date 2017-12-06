@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entities.Sales.Api
+namespace Company.Entities.SalesApi
 {
     public interface ISalesFactory
     {

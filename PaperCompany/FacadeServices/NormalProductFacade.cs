@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.Warehouse.Api;
+using Company.Entities.WarehouseApi;
 using Company.Facade.Api;
 using Company.Services.Api;
 

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.Sales.Api;
+using Company.Entities.SalesApi;
 
-namespace Company.Entities.Sales.Senior
+namespace Company.Entities.Senior
 {
     public class SeniorSalesman : ISalesman
     {

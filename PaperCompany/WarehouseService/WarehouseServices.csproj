@@ -53,9 +53,9 @@
       <Project>{fdc3148b-9076-4b01-bda2-ba6261a5b7df}</Project>
       <Name>WarehouseAPI</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WarehouseServiceApi\WarehouseServiceApi.csproj">
+    <ProjectReference Include="..\WarehouseServiceApi\ProductMaintenanceServiceApi.csproj">
       <Project>{e14d44b6-11c8-44ba-8c59-d72732773120}</Project>
-      <Name>WarehouseServiceApi</Name>
+      <Name>ProductMaintenanceServiceApi</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

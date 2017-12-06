@@ -40,25 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NormalEmployeeFacade.cs" />
-    <Compile Include="NormalOrderFacade.cs" />
     <Compile Include="NormalProductFacade.cs" />
-    <Compile Include="NormalReportFacade.cs" />
-    <Compile Include="OrderWithDiscountFacade.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AccountingAPI\AccountingAPI.csproj">
       <Project>{d2fa3592-3e4e-4a40-b916-983d05192264}</Project>
       <Name>AccountingAPI</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\AccountingServiceApi\AccountingServiceApi.csproj">
-      <Project>{940dda39-0e26-44f9-8aa1-d454362abafc}</Project>
-      <Name>AccountingServiceApi</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\FacadeServicesApi\FacadeServicesApi.csproj">
-      <Project>{972781e8-8cec-4f6f-9dcb-76b7fe905771}</Project>
-      <Name>FacadeServicesApi</Name>
     </ProjectReference>
     <ProjectReference Include="..\MailAPI\MailAPI.csproj">
       <Project>{9f36d851-2bc8-4632-977b-4d1e85310060}</Project>
@@ -68,17 +56,13 @@
       <Project>{df2fd2a0-ab82-4960-b97a-d9b6891ac989}</Project>
       <Name>SalesAPI</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ServiceApi\SalesServiceApi.csproj">
-      <Project>{c9eeb4be-a627-4e95-bed9-2d40890664a7}</Project>
-      <Name>SalesServiceApi</Name>
-    </ProjectReference>
     <ProjectReference Include="..\WarehouseAPI\WarehouseAPI.csproj">
       <Project>{fdc3148b-9076-4b01-bda2-ba6261a5b7df}</Project>
       <Name>WarehouseAPI</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WarehouseServiceApi\WarehouseServiceApi.csproj">
+    <ProjectReference Include="..\WarehouseServiceApi\ProductMaintenanceServiceApi.csproj">
       <Project>{e14d44b6-11c8-44ba-8c59-d72732773120}</Project>
-      <Name>WarehouseServiceApi</Name>
+      <Name>ProductMaintenanceServiceApi</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -54,10 +54,6 @@
       <Project>{90f44bd5-5984-41da-bc31-8201b01d786c}</Project>
       <Name>SalesRepositoryAPI</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ServiceApi\SalesServiceApi.csproj">
-      <Project>{c9eeb4be-a627-4e95-bed9-2d40890664a7}</Project>
-      <Name>SalesServiceApi</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

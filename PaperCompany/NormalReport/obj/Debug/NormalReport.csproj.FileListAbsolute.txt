@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\NormalReport.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\NormalReport.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\AccountingRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\ReportServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\bin\Debug\ReportServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.pdb

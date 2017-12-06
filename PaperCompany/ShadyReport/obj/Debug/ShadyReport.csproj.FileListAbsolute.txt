@@ -1,0 +1,12 @@
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\ShadyReport.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\ShadyReport.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\AccountingAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\AccountingRepositoryAPI.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\ReportServiceApi.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\AccountingAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\bin\Debug\ReportServiceApi.pdb
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.csprojResolveAssemblyReference.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.csproj.CoreCompileInputs.cache
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.dll
+D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.pdb
