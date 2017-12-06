@@ -22,8 +22,8 @@ using Company.Repository.Warehouse;
 using Company.Repository.Api;
 using Company.UI.Console.Controllers;
 using Company.UI.Console;
-using Company.Integration.Api;
-using Company.Integration.Services;
+using Company.Integration.Mail.Api;
+using Company.Integration.Mail.Services;
 using Autofac;
 using Company.Entities.Warehouse.PaperDivision;
 

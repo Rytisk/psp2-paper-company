@@ -7,7 +7,7 @@ using Company.Integration.Api;
 using System.Net.Mail;
 using System.Net;
 
-namespace Company.Integration.Services
+namespace Company.Integration.Mail.Services
 {
     public class GmailSender : IMailSender
     {

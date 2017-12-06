@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entities.Accounting.Api
+namespace Company.Entities.AccountingApi
 {
     public interface IReport
     {
