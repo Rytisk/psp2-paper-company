@@ -3,3 +3,9 @@ D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\bin\Debug\UIApi.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\obj\Debug\UIApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\obj\Debug\UIApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\UIApi\obj\Debug\UIApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\UIApi\bin\Debug\UIApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\UIApi\bin\Debug\UIApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\UIApi\obj\Debug\UIApi.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\UIApi\obj\Debug\UIApi.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\UIApi\obj\Debug\UIApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\UIApi\obj\Debug\UIApi.pdb

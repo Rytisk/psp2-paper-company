@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Services.AutoOrderProductMaintenance;
-using Company.Services.ProductMaintenanceServiceApi;
+using PaperCompany.Services.AutoOrderProductMaintenance;
+using PaperCompany.Services.ProductMaintenanceServiceApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class ProductMaintenanceModule : Module
     {

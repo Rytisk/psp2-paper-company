@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{95022D35-5E0F-48D2-BA6A-7FBF8B4E03B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMain", "TestMain\TestMain.csproj", "{765C6E13-2EC2-4A0C-891B-03B0B1367047}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyMain", "TestMain\CompanyMain.csproj", "{765C6E13-2EC2-4A0C-891B-03B0B1367047}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{FE1C49CD-4C05-4B29-872A-236D2279C1CD}"
 EndProject

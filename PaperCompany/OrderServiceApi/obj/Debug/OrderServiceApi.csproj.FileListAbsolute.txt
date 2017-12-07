@@ -6,3 +6,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceA
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\bin\Debug\OrderServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\bin\Debug\OrderServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderServiceApi\obj\Debug\OrderServiceApi.pdb

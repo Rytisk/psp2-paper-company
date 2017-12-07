@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.csp
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalReport\obj\Debug\NormalReport.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\NormalReport.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\NormalReport.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\AccountingAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\AccountingRepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\ReportServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\AccountingAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\bin\Debug\ReportServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\obj\Debug\NormalReport.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\obj\Debug\NormalReport.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\obj\Debug\NormalReport.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalReport\obj\Debug\NormalReport.pdb

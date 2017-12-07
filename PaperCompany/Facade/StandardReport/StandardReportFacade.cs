@@ -1,11 +1,11 @@
-﻿using Company.Entities.AccountingApi;
-using Company.Facade.ReportFacadeApi;
-using Company.Services.OrderServiceApi;
-using Company.Services.ReportServiceApi;
-using Company.Entities.SalesApi;
-using Company.Integration.MailApi;
+﻿using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Facade.ReportFacadeApi;
+using PaperCompany.Services.OrderServiceApi;
+using PaperCompany.Services.ReportServiceApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Integration.MailApi;
 
-namespace Company.Facade.StandardReport
+namespace PaperCompany.Facade.StandardReport
 {
     public class StandardReportFacade : IReportFacade
     {

@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithoutCommissions\obj\Debug\Order
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\OrderWithoutCommissions.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\OrderWithoutCommissions.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\OrderServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\SalesRepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\OrderServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\bin\Debug\SalesRepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithoutCommissions\obj\Debug\OrderWithoutCommissions.pdb

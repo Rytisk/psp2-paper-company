@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Services.AccountantServiceApi;
-using Company.Services.NormalAccountant;
+using PaperCompany.Services.AccountantServiceApi;
+using PaperCompany.Services.NormalAccountant;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class AccountantModule : Module
     {

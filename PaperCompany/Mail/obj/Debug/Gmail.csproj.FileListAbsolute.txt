@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Gmail.csprojResolveAssem
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Gmail.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Mail.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Mail\obj\Debug\Mail.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\Mail.dll
+D:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\Mail.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\MailAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\Mail\bin\Debug\MailAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Gmail.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Gmail.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Mail.dll
+D:\Projects\psp2-paper-company\PaperCompany\Mail\obj\Debug\Mail.pdb

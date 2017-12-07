@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Entities.SalesApi;
-using Company.Entities.Senior;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Entities.Senior;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class SalesModule : Module
     {

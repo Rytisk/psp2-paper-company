@@ -1,11 +1,11 @@
-﻿using Company.Entities.SalesApi;
+﻿using PaperCompany.Entities.SalesApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Services.SalesmanServiceApi
+namespace PaperCompany.Services.SalesmanServiceApi
 {
     public interface ISalesmanService
     {

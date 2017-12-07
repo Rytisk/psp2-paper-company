@@ -8,3 +8,13 @@ D:\Studies\PSP\PaperCompany\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\Empl
 D:\Studies\PSP\PaperCompany\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\bin\Debug\EmployeeFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\bin\Debug\EmployeeFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\bin\Debug\AccountingAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\bin\Debug\AccountingAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\EmployeeFacadeApi\obj\Debug\EmployeeFacadeApi.pdb

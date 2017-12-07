@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.SalesApi;
+using PaperCompany.Entities.SalesApi;
 
-namespace Company.Repository.SalesRepositoryApi
+namespace PaperCompany.Repository.SalesRepositoryApi
 {
     public interface ISalesmanRepository
     {

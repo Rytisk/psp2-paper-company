@@ -4,10 +4,10 @@ using System.Linq;
 using Autofac;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Integration.MailApi;
-using Company.Integration.Gmail;
+using PaperCompany.Integration.MailApi;
+using PaperCompany.Integration.Gmail;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class MailModule : Module
     {

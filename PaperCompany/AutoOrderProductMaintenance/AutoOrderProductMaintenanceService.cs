@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Services.ProductMaintenanceServiceApi;
-using Company.Repository.WarehouseRepositoryApi;
-using Company.Entities.WarehouseApi;
+using PaperCompany.Services.ProductMaintenanceServiceApi;
+using PaperCompany.Repository.WarehouseRepositoryApi;
+using PaperCompany.Entities.WarehouseApi;
 
-namespace Company.Services.AutoOrderProductMaintenance
+namespace PaperCompany.Services.AutoOrderProductMaintenance
 {
     public class AutoOrderProductMaintenanceService : IProductMaintenanceService
     {

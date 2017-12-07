@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.AccountingApi;
-using Company.Entities.SalesApi;
+using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Entities.SalesApi;
 
-namespace Company.Facade.EmployeeFacadeApi
+namespace PaperCompany.Facade.EmployeeFacadeApi
 {
     public interface IEmployeeFacade
     {

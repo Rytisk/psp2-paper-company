@@ -1,8 +1,8 @@
 ﻿using Autofac;
-using Company.Facade.NormalProduct;
-using Company.Facade.ProductFacadeApi;
+using PaperCompany.Facade.NormalProduct;
+using PaperCompany.Facade.ProductFacadeApi;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class ProductFacadeModule : Module
     {

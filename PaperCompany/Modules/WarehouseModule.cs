@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Entities.PaperDivision;
-using Company.Entities.WarehouseApi;
+using PaperCompany.Entities.PaperDivision;
+using PaperCompany.Entities.WarehouseApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class WarehouseModule : Module
     {

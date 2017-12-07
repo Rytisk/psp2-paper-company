@@ -1,12 +1,12 @@
-﻿using Company.Entities.AccountingApi;
-using Company.Repository.AccountingRepositoryApi;
+﻿using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Repository.AccountingRepositoryApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Services.ShadyReport
+namespace PaperCompany.Services.ShadyReport
 {
     public class ShadyReportService
     {

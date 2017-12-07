@@ -6,3 +6,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeA
 D:\Studies\PSP\PaperCompany\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\bin\Debug\ReportFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\bin\Debug\ReportFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\bin\Debug\AccountingAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\bin\Debug\AccountingAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\ReportFacadeApi\obj\Debug\ReportFacadeApi.pdb

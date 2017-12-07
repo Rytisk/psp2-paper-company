@@ -17,3 +17,13 @@ D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseRepository\obj\Debug\Warehouse
 D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.pdb
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\bin\Debug\WarehouseRepository.dll
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\bin\Debug\WarehouseRepository.pdb
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\bin\Debug\RepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\bin\Debug\WarehouseAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\bin\Debug\RepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\bin\Debug\WarehouseAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.dll
+D:\Projects\psp2-paper-company\PaperCompany\WarehouseRepository\obj\Debug\WarehouseRepository.pdb

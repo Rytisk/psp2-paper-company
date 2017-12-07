@@ -1,8 +1,8 @@
-﻿using Company.Facade.ReportFacadeApi;
-using Company.UI.Api.Views;
-using Company.UI.Api.Controllers;
+﻿using PaperCompany.Facade.ReportFacadeApi;
+using PaperCompany.UI.Api.Views;
+using PaperCompany.UI.Api.Controllers;
 
-namespace Company.UI.Console.Controllers
+namespace PaperCompany.UI.Console.Controllers
 {
     public class AccountantController : IAccountantController
     {

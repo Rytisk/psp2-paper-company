@@ -6,3 +6,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanSe
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\bin\Debug\SalesmanServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\bin\Debug\SalesmanServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\SalesmanServiceApi\obj\Debug\SalesmanServiceApi.pdb

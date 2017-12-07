@@ -1,12 +1,12 @@
-﻿using Company.Entities.AccountingApi;
-using Company.Entities.SalesApi;
-using Company.Facade.EmployeeFacadeApi;
-using Company.Facade.ProductFacadeApi;
-using Company.UI.Api.Views;
+﻿using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Facade.EmployeeFacadeApi;
+using PaperCompany.Facade.ProductFacadeApi;
+using PaperCompany.UI.Api.Views;
 using System.Collections.Generic;
-using Company.UI.Api.Controllers;
+using PaperCompany.UI.Api.Controllers;
 
-namespace Company.UI.Console.Controllers
+namespace PaperCompany.UI.Console.Controllers
 {
     public class ManagerController : IManagerController
     {

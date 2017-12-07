@@ -6,3 +6,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFa
 D:\Studies\PSP\PaperCompany\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\bin\Debug\OrderFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\bin\Debug\OrderFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\Facade\OrderFacadeApi\obj\Debug\OrderFacadeApi.pdb

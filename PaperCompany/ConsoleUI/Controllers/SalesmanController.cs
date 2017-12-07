@@ -1,10 +1,10 @@
-﻿using Company.Entities.SalesApi;
-using Company.Facade.OrderFacadeApi;
-using Company.UI.Api.Views;
+﻿using PaperCompany.Entities.SalesApi;
+using PaperCompany.Facade.OrderFacadeApi;
+using PaperCompany.UI.Api.Views;
 using System.Collections.Generic;
-using Company.UI.Api.Controllers;
+using PaperCompany.UI.Api.Controllers;
 
-namespace Company.UI.Console.Controllers
+namespace PaperCompany.UI.Console.Controllers
 {
     public class SalesmanController : ISalesmanController
     {

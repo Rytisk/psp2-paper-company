@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.SalesApi;
-using Company.Repository.SalesRepositoryApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Repository.SalesRepositoryApi;
 
-namespace Company.Repository.SalesRepositoryInMemory
+namespace PaperCompany.Repository.SalesRepositoryInMemory
 {
     public class InMemoryOrderRepository : IOrderRepository
     {

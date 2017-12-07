@@ -1,11 +1,11 @@
-﻿using Company.Entities.AccountingApi;
+﻿using PaperCompany.Entities.AccountingApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Facade.ReportFacadeApi
+namespace PaperCompany.Facade.ReportFacadeApi
 {
     public interface IReportFacade
     {

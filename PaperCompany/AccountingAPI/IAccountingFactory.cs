@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entities.AccountingApi
+namespace PaperCompany.Entities.AccountingApi
 {
     public interface IAccountingFactory
     {

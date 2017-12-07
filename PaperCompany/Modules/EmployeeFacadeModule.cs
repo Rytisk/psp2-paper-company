@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Facade.EmployeeFacadeApi;
-using Company.Facade.NormalEmployee;
+using PaperCompany.Facade.EmployeeFacadeApi;
+using PaperCompany.Facade.NormalEmployee;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class EmployeeFacadeModule : Module
     {

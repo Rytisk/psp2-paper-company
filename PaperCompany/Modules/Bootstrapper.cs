@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Autofac;
-using Company.Modules;
+using PaperCompany.Modules;
 
-namespace Company.Bootstrap
+namespace PaperCompany.Bootstrap
 {
     public class Bootstrapper
     {

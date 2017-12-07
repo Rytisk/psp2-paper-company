@@ -1,15 +1,15 @@
 ﻿using Autofac;
-using Company.UI.Api.Views;
-using Company.UI.Console.Controllers;
-using Company.UI.Console.Views;
+using PaperCompany.UI.Api.Views;
+using PaperCompany.UI.Console.Controllers;
+using PaperCompany.UI.Console.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.UI.Api.Controllers;
+using PaperCompany.UI.Api.Controllers;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class UIModule : Module
     {

@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.AccountingApi;
-using Company.Entities.SalesApi;
-using Company.Facade.EmployeeFacadeApi;
-using Company.Services.AccountantServiceApi;
-using Company.Services.SalesmanServiceApi;
+using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Facade.EmployeeFacadeApi;
+using PaperCompany.Services.AccountantServiceApi;
+using PaperCompany.Services.SalesmanServiceApi;
 
-namespace Company.Facade.NormalEmployee
+namespace PaperCompany.Facade.NormalEmployee
 {
     public class NormalEmployeeFacade : IEmployeeFacade
     {

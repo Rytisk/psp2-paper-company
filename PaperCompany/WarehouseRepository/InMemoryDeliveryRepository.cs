@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.WarehouseApi;
-using Company.Repository.WarehouseRepositoryApi;
+using PaperCompany.Entities.WarehouseApi;
+using PaperCompany.Repository.WarehouseRepositoryApi;
 
-namespace Company.Repository.WarehouseRepositoryInMemory
+namespace PaperCompany.Repository.WarehouseRepositoryInMemory
 {
     public class InMemoryDeliveryRepository : IDeliveryRepository
     {

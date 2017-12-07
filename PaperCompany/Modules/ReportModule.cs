@@ -4,10 +4,10 @@ using System.Linq;
 using Autofac;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Services.ReportServiceApi;
-using Company.Services.NormalReport;
+using PaperCompany.Services.ReportServiceApi;
+using PaperCompany.Services.NormalReport;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class ReportModule : Module
     {

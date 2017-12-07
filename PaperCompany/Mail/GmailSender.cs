@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Integration.MailApi;
+using PaperCompany.Integration.MailApi;
 using System.Net.Mail;
 using System.Net;
 
-namespace Company.Integration.Gmail
+namespace PaperCompany.Integration.Gmail
 {
     public class GmailSender : IMailSender
     {

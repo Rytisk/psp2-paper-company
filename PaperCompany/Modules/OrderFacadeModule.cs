@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Facade.NormalOrder;
-using Company.Facade.OrderFacadeApi;
+using PaperCompany.Facade.NormalOrder;
+using PaperCompany.Facade.OrderFacadeApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class OrderFacadeModule : Module
     {

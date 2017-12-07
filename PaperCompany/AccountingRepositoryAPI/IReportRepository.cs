@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.AccountingApi;
+using PaperCompany.Entities.AccountingApi;
 
-namespace Company.Repository.AccountingRepositoryApi
+namespace PaperCompany.Repository.AccountingRepositoryApi
 {
     public interface IReportRepository
     {

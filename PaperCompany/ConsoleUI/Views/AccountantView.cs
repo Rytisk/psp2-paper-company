@@ -1,7 +1,7 @@
-﻿using Company.UI.Api.Views;
-using Company.UI.Api.Controllers;
+﻿using PaperCompany.UI.Api.Views;
+using PaperCompany.UI.Api.Controllers;
 
-namespace Company.UI.Console.Views
+namespace PaperCompany.UI.Console.Views
 {
     public class AccountantView : IAccountantView
     {

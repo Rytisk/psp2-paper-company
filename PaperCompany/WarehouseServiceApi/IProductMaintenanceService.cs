@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.WarehouseApi;
+using PaperCompany.Entities.WarehouseApi;
 
-namespace Company.Services.ProductMaintenanceServiceApi
+namespace PaperCompany.Services.ProductMaintenanceServiceApi
 {
     public interface IProductMaintenanceService
     {

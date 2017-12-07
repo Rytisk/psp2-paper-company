@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseReposi
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\RepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\RepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\bin\Debug\WarehouseAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\WarehouseRepositoryAPI.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\RepositoryAPI\obj\Debug\RepositoryAPI.pdb

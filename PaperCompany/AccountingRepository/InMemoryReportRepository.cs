@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.AccountingApi;
-using Company.Repository.AccountingRepositoryApi;
+using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Repository.AccountingRepositoryApi;
 
-namespace Company.Repository.AccountingRepositoryInMemory
+namespace PaperCompany.Repository.AccountingRepositoryInMemory
 {
     public class InMemoryReportRepository : IReportRepository
     {

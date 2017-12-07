@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.AccountingApi;
-using Company.Services.AccountantServiceApi;
-using Company.Repository.AccountingRepositoryApi;
+using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Services.AccountantServiceApi;
+using PaperCompany.Repository.AccountingRepositoryApi;
 
-namespace Company.Services.NormalAccountant
+namespace PaperCompany.Services.NormalAccountant
 {
     public class NormalAccountantService : IAccountantService
     {

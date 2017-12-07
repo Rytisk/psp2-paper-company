@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAcco
 D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.pdb
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\bin\Debug\FinanceAccounting.dll
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\bin\Debug\FinanceAccounting.pdb
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\bin\Debug\AccountingAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\bin\Debug\AccountingAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.dll
+D:\Projects\psp2-paper-company\PaperCompany\FinanceAccounting\obj\Debug\FinanceAccounting.pdb

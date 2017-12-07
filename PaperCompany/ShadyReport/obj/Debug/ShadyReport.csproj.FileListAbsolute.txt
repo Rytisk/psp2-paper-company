@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.cspro
 D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ShadyReport\obj\Debug\ShadyReport.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\ShadyReport.dll
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\ShadyReport.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\AccountingAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\AccountingRepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\ReportServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\AccountingAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\bin\Debug\ReportServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\obj\Debug\ShadyReport.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\obj\Debug\ShadyReport.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\obj\Debug\ShadyReport.dll
+D:\Projects\psp2-paper-company\PaperCompany\ShadyReport\obj\Debug\ShadyReport.pdb

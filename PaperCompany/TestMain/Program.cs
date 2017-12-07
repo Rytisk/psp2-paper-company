@@ -1,10 +1,10 @@
 ﻿using System;
 
 using Autofac;
-using Company.UI.Api.Controllers;
-using Company.Bootstrap;
+using PaperCompany.UI.Api.Controllers;
+using PaperCompany.Bootstrap;
 
-namespace TestMain
+namespace CompanyMain
 {
     class Program
     {

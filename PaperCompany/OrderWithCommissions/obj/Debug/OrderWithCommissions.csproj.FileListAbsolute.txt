@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithCommissions\obj\Debug\OrderWit
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\OrderWithCommissions.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\OrderWithCommissions.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\OrderServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\SalesRepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\OrderServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\bin\Debug\SalesRepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.dll
+D:\Projects\psp2-paper-company\PaperCompany\OrderWithCommissions\obj\Debug\OrderWithCommissions.pdb

@@ -1,12 +1,12 @@
-﻿using Company.Entities.SalesApi;
-using Company.Repository.SalesRepositoryApi;
+﻿using PaperCompany.Entities.SalesApi;
+using PaperCompany.Repository.SalesRepositoryApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Services.Sales
+namespace PaperCompany.Services.OrderWithoutCommissions
 {
     public class OrderWithoutCommisionService
     {

@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Services.NormalSalesman;
-using Company.Services.SalesmanServiceApi;
+using PaperCompany.Services.NormalSalesman;
+using PaperCompany.Services.SalesmanServiceApi;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class SalesmanModule : Module
     {

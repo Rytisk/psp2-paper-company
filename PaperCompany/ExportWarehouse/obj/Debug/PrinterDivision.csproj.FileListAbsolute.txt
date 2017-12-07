@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivisi
 D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\bin\Debug\PrinterDivision.dll
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\bin\Debug\PrinterDivision.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\bin\Debug\WarehouseAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\bin\Debug\WarehouseAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.dll
+D:\Projects\psp2-paper-company\PaperCompany\ExportWarehouse\obj\Debug\PrinterDivision.pdb

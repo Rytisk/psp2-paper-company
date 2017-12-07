@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Repository.AccountingRepositoryApi;
-using Company.Repository.AccountingRepositoryInMemory;
+using PaperCompany.Repository.AccountingRepositoryApi;
+using PaperCompany.Repository.AccountingRepositoryInMemory;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class AccountingRepositoryModule : Module
     {

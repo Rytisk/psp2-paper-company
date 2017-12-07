@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.WarehouseApi;
-using Company.Facade.ProductFacadeApi;
-using Company.Services.ProductMaintenanceServiceApi;
+using PaperCompany.Entities.WarehouseApi;
+using PaperCompany.Facade.ProductFacadeApi;
+using PaperCompany.Services.ProductMaintenanceServiceApi;
 
-namespace Company.Facade.NormalProduct
+namespace PaperCompany.Facade.NormalProduct
 {
     public class NormalProductFacade : IProductFacade
     {

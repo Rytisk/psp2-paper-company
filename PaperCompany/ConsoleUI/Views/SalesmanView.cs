@@ -1,8 +1,8 @@
-﻿using Company.UI.Api.Views;
+﻿using PaperCompany.UI.Api.Views;
 using System.Collections.Generic;
-using Company.UI.Api.Controllers;
+using PaperCompany.UI.Api.Controllers;
 
-namespace Company.UI.Console.Views
+namespace PaperCompany.UI.Console.Views
 {
     public class SalesmanView : ISalesmanView
     {

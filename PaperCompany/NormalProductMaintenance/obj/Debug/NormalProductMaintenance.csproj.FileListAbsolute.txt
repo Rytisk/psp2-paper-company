@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\Norm
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\NormalProductMaintenance.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\NormalProductMaintenance.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\RepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\RepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\bin\Debug\WarehouseServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProductMaintenance\obj\Debug\NormalProductMaintenance.pdb

@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.SalesApi;
-using Company.Facade.OrderFacadeApi;
-using Company.Services.OrderServiceApi;
-using Company.Services.ProductMaintenanceServiceApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Facade.OrderFacadeApi;
+using PaperCompany.Services.OrderServiceApi;
+using PaperCompany.Services.ProductMaintenanceServiceApi;
 
-namespace Company.Facade.OrderWithoutDiscount
+namespace PaperCompany.Facade.OrderWithoutDiscount
 {
     public class OrderWithDiscountFacade : IOrderFacade
     {

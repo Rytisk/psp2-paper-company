@@ -1,13 +1,13 @@
 ﻿using Autofac;
-using Company.Entities.AccountingApi;
-using Company.Entities.Finance;
+using PaperCompany.Entities.AccountingApi;
+using PaperCompany.Entities.Finance;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     public class AccountingModule : Module
     {

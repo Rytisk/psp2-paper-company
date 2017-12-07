@@ -1,11 +1,11 @@
-﻿using Company.Entities.SalesApi;
-using Company.Facade.OrderFacadeApi;
-using Company.Services.OrderServiceApi;
-using Company.Services.ProductMaintenanceServiceApi;
+﻿using PaperCompany.Entities.SalesApi;
+using PaperCompany.Facade.OrderFacadeApi;
+using PaperCompany.Services.OrderServiceApi;
+using PaperCompany.Services.ProductMaintenanceServiceApi;
 using System;
 using System.Collections.Generic;
 
-namespace Company.Facade.NormalOrder
+namespace PaperCompany.Facade.NormalOrder
 {
     public class NormalOrderFacade : IOrderFacade
     {

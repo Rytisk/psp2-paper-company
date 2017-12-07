@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.csproj
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\PaperSales\obj\Debug\SeniorSales.pdb
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SeniorSales.dll
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SeniorSales.pdb
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.dll
+D:\Projects\psp2-paper-company\PaperCompany\PaperSales\obj\Debug\SeniorSales.pdb

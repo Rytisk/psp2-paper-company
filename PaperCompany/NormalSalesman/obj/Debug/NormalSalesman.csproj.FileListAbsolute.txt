@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\NormalSalesman.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\NormalSalesman.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\SalesAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\SalesmanServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\SalesRepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\SalesAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\SalesmanServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\bin\Debug\SalesRepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalSalesman\obj\Debug\NormalSalesman.pdb

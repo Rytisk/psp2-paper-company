@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.WarehouseApi;
+using PaperCompany.Entities.WarehouseApi;
 
-namespace Company.Entities.PrinterDivision
+namespace PaperCompany.Entities.PrinterDivision
 {
     class Printer : IProduct
     {

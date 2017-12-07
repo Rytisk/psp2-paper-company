@@ -8,3 +8,8 @@ D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\bin\Debug\MailAPI.pdb
 D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\MailAPI\obj\Debug\MailAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\MailAPI\bin\Debug\MailAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\MailAPI\bin\Debug\MailAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\MailAPI\obj\Debug\MailAPI.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\MailAPI\obj\Debug\MailAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\MailAPI\obj\Debug\MailAPI.pdb

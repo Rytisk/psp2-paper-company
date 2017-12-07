@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Integration.MailApi
+namespace PaperCompany.Integration.MailApi
 {
     public interface IMailSender
     {

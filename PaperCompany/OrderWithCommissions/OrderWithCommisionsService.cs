@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.SalesApi;
-using Company.Repository.SalesRepositoryApi;
-using Company.Services.OrderServiceApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Repository.SalesRepositoryApi;
+using PaperCompany.Services.OrderServiceApi;
 
-namespace Company.Services.OrderWithCommissions
+namespace PaperCompany.Services.OrderWithCommissions
 {
     public class OrderWithCommisionsService : IOrderService
     {

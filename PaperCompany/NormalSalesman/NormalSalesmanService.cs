@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Services.SalesmanServiceApi;
-using Company.Entities.SalesApi;
-using Company.Repository.SalesRepositoryApi;
+using PaperCompany.Services.SalesmanServiceApi;
+using PaperCompany.Entities.SalesApi;
+using PaperCompany.Repository.SalesRepositoryApi;
 
-namespace Company.Services.NormalSalesman
+namespace PaperCompany.Services.NormalSalesman
 {
     public class NormalSalesmanService : ISalesmanService
     {

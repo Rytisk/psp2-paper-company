@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\NormalProduct\obj\Debug\NormalProduct.c
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalProduct\obj\Debug\NormalProduct.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalProduct\obj\Debug\NormalProduct.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalProduct\obj\Debug\NormalProduct.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\NormalProduct.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\NormalProduct.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\ProductFacadeApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\WarehouseAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\WarehouseServiceApi.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\ProductFacadeApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\WarehouseAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\bin\Debug\WarehouseServiceApi.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\obj\Debug\NormalProduct.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\obj\Debug\NormalProduct.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\obj\Debug\NormalProduct.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalProduct\obj\Debug\NormalProduct.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Company.Entities.SalesApi
+namespace PaperCompany.Entities.SalesApi
 {
     public interface IOrder
     {

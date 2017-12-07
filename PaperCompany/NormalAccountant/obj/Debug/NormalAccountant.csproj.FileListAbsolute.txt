@@ -10,3 +10,15 @@ D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccoun
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\NormalAccountant.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\NormalAccountant.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\AccountantService.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\AccountingAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\AccountingRepositoryAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\AccountantService.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\AccountingAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\bin\Debug\AccountingRepositoryAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.dll
+D:\Projects\psp2-paper-company\PaperCompany\NormalAccountant\obj\Debug\NormalAccountant.pdb

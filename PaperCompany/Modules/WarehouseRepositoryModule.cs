@@ -4,10 +4,10 @@ using System.Linq;
 using Autofac;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Repository.WarehouseRepositoryInMemory;
-using Company.Repository.WarehouseRepositoryApi;
+using PaperCompany.Repository.WarehouseRepositoryInMemory;
+using PaperCompany.Repository.WarehouseRepositoryApi;
 
-namespace Company.Modules
+namespace PaperCompany.Modules
 {
     class WarehouseRepositoryModule : Module
     {

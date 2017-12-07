@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.Entities.AccountingApi;
+using PaperCompany.Entities.AccountingApi;
 
-namespace Company.Entities.Management
+namespace PaperCompany.Entities.Management
 {
     public class ManagementAccountingFactory : IAccountingFactory
     {

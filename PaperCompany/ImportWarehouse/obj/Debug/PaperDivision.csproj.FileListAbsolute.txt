@@ -13,3 +13,11 @@ D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision.csproj.CoreCompileInputs.cache
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.dll
 D:\Studies\PSP\PaperCompany\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.dll
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\ImportWarehouse.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.dll
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\bin\Debug\WarehouseAPI.pdb
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision.csprojResolveAssemblyReference.cache
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\PaperDivision.csproj.CoreCompileInputs.cache
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.dll
+D:\Projects\psp2-paper-company\PaperCompany\ImportWarehouse\obj\Debug\ImportWarehouse.pdb
